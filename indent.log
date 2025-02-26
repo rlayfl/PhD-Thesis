@@ -1,0 +1,33 @@
+INFO:  latexindent.pl version 3.23.5, 2024-01-01, a script to indent .tex files
+       latexindent.pl lives here: C:/Users/Richard/AppData/Local/Programs/MiKTeX/scripts/latexindent/
+       Thu Jan 18 13:27:46 2024
+       Filename: d:/PhD Computer Science/Literature-Review/__latexindent_temp_literature-review.tex
+INFO:  Processing switches:
+       -y|--yaml: YAML settings specified via command line
+       -c|--cruft: cruft directory
+INFO:  Directory for backup files and d:/PhD Computer Science/Literature-Review//indent.log:
+       d:/PhD Computer Science/Literature-Review/
+INFO:  Perl modules are being loaded from the following directories:
+       C:/Strawberry/perl/lib/FindBin.pm
+       C:/Strawberry/perl/vendor/lib/YAML/Tiny.pm
+       C:/Strawberry/perl/lib/File/Copy.pm
+       C:/Strawberry/perl/lib/File/Basename.pm
+       C:/Strawberry/perl/lib/Getopt/Long.pm
+       C:/Strawberry/perl/vendor/lib/File/HomeDir.pm
+INFO:  LatexIndent perl modules are being loaded from, for example:
+       C:/Users/Richard/AppData/Local/Programs/MiKTeX/scripts/latexindent/LatexIndent/Document.pm
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from C:/Users/Richard/AppData/Local/Programs/MiKTeX/scripts/latexindent/defaultSettings.yaml
+INFO:  YAML reading settings
+       Home directory is C:\Users\Richard
+       latexindent.pl didn't find indentconfig.yaml or .indentconfig.yaml
+       see all possible locations: https://latexindentpl.readthedocs.io/en/latest/sec-appendices.html#indentconfig-options)
+INFO:  YAML settings read: -y switch
+       YAML setting: defaultIndent:'    '
+       single-quoted string found in -y switch: '    ', substitute to     
+       Updating mainSettings with defaultIndent:     
+FATAL I couldn't find d:/PhD Computer Science/Literature-Review/__latexindent_temp_literature-review.tex, are you sure it exists?
+      Exiting, no indentation done.
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl
