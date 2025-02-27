@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  27 FEB 2025 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  27 FEB 2025 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -49,9 +49,20 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 ) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count193
+\l__color_backend_stack_int=\count194
 \l__pdf_internal_box=\box51
 ) (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.aux)
 \openout1 = `phd-thesis.aux'.
@@ -72,16 +83,16 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
  (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
+\scratchcounter=\count195
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count195
-\nofMParguments=\count196
+\nofMPsegments=\count196
+\nofMParguments=\count197
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count197
+\MPscratchCnt=\count198
 \MPscratchDim=\dimen144
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
 \everyMPtoPDFconversion=\toks19
 ) (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -119,36 +130,110 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lof=\write5
 \openout5 = `phd-thesis.lof'.
 
+<images/tamar-class-lifeboat-stormworks.jpg, id=24, 2569.6pt x 1445.4pt>
+File: images/tamar-class-lifeboat-stormworks.jpg Graphic file (type jpg)
+<use images/tamar-class-lifeboat-stormworks.jpg>
+Package pdftex.def Info: images/tamar-class-lifeboat-stormworks.jpg  used on input line 87.
+(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
 
-Overfull \hbox (0.8926pt too wide) in paragraph at lines 86--87
-[]\OT1/cmss/m/n/12 Some ex-am-ples of high-pressure sit-u-a-tions in-clude emer-gen-cies, meet-ing dead-
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/falklands-arma.jpg, id=25, 2569.6pt x 1445.4pt>
+File: images/falklands-arma.jpg Graphic file (type jpg)
+<use images/falklands-arma.jpg>
+Package pdftex.def Info: images/falklands-arma.jpg  used on input line 96.
+(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8 <./images/tamar-class-lifeboat-stormworks.jpg>] [9 <./images/falklands-arma.jpg>] [10]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 140.
+ (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.bbl
+Underfull \hbox (badness 1184) in paragraph at lines 25--27
+[]\OT1/cmss/m/n/12 ``Arma 3,'' $https : / / store . steampowered . com / app / 107410 / Arma[]3/$, ac-
  []
 
-[7] [8] [9] [10] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[11]
+Overfull \vbox (72.39938pt too high) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 []\OT1/cmss/m/n/12 ``Richie's Plank Ex-pe-ri-ence,'' $https : / / store . steampowered . com / app /
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[]\OT1/cmss/m/n/12 ``Steadfast De-fender 24,'' $https : / / www . defense . gov / Spotlights /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+[]\OT1/cmss/m/n/12 ``War Thun-der,'' $https : / / store . steampowered . com / app / 236390 /
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 50--54
+\OT1/cmss/m/n/12 line]. Avail-able: $https : / / cbsaustin . com / news / nation-[]world /
+ []
+
+
+Overfull \hbox (257.5388pt too wide) in paragraph at lines 50--54
+\OT1/cmss/m/n/12 utah-[]national-[]guard-[]ah-[]64d-[]apache-[]longbow-[]helicopter-[]involved-[]in-[]training-[]accident-[]west-[]jordan-[]army-[]aviation-[]support-[]facility$ 
+ []
+
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 32.
-[11] [12]) [13] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.aux)
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 65.
+
+Overfull \hbox (89.4938pt too wide) in paragraph at lines 79--84
+\OT1/cmss/m/n/12 fox-[]13-[]investigates-[]how-[]a-[]colonel-[]crashed-[]a-[]utah-[]apache-[]helicopter-[]he-[]wasnt-[]quali^^Led-[]to-[]^^My$ 
+ []
+
+[13] [14]
+Underfull \hbox (badness 1189) in paragraph at lines 152--156
+[]\OT1/cmss/m/n/12 D. Malyasov, ``Bradley fight-ing ve-hi-cle de-stroys rus-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 152--156
+\OT1/cmss/m/n/12 sia's most ad-vanced tank,'' Jan. 2024, ac-cessed:
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 152--156
+\OT1/cmss/m/n/12 2025-02-27. [On-line]. Avail-able: $https : / / defence-[]blog . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
+\OT1/cmss/m/n/12 / / assets . publishing . service . gov . uk / media / 5a800dcded915d74e33f82c4 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
+\OT1/cmss/m/n/12 / / assets . publishing . service . gov . uk / media / 66056f6ef9ab410011eea4ec /
+ []
+
+) [15] [16] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1524 strings out of 475248
- 26233 string characters out of 5756868
+ 2304 strings out of 475248
+ 39263 string characters out of 5756868
  1927785 words of memory out of 5000000
- 23062 multiletter control sequences out of 15000+600000
- 564185 words of font info for 56 fonts, out of 8000000 for 9000
+ 23819 multiletter control sequences out of 15000+600000
+ 564528 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,720b,290s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (13 pages, 94318 bytes).
+ 57i,8n,65p,1209b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1200.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
+Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (16 pages, 950555 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

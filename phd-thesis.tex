@@ -3,7 +3,7 @@
 \usepackage{titling} % For custom title page
 \usepackage{url}
 \renewcommand{\familydefault}{\sfdefault}
-
+\usepackage{parskip} % For spacing between paragraphs
 
 \title{Analysing the Effectiveness of Consumer-ready Simulation Software in Training for Maritime Navigation Under Pressure}
 \author{Richard Lay-Flurrie}
@@ -79,6 +79,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 \subsection{Maritime Navigation Training}
 
+In maritime navigation, the study of certain instruments and other sources of information is often required. Charts, dividers, overlays, menus, ship information, tasks lists and detailed task information may all need to be studied. \cite{atik2019use} The simulation of these instruments and sources of information in virtual environments can be achieved as seen in commercial software such as the game Stormworks: Build and Rescue \cite{stormworks} and Arma 3 \cite{arma3} (see Figure \ref{fig:tamarclassstormworks}) (see Figure \ref{fig:falklandsarma}).
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.9\linewidth}
+    \includegraphics[width=\linewidth]{images/tamar-class-lifeboat-stormworks.jpg}
+    \caption{Digital twin of a Tamar Class Lifeboat in Stormworks: Build and Rescue}
+    \label{fig:tamarclassstormworks}
+  \end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.9\linewidth}
+    \includegraphics[width=\linewidth]{images/falklands-arma.jpg}
+    \caption{Simulated Falklands War scenario in Arma 3}
+    \label{fig:falklandsarma}
+  \end{minipage}
+\end{figure}
+
 \subsection{High-pressure Scenarios and Decision-making}
 
 A high-pressure situation is one which can be defined as a scenario where an invidual has a difficult task or decision to make, which is likely to make the individual feel stressed or anxious. In such situations, the individual may experience a range of physiological and psychological responses, such as increased heart rate, sweating, and impaired cognitive function. These responses can impact the individual's ability to think clearly and make effective decisions, which can have serious consequences in critical situations.
@@ -89,11 +109,9 @@ Some factors which can contribute to the experience of stress in a situation are
 
 \subsection{Necessity for Regular Exposure to High-pressure Scenarios}
 
-Certain career paths require individuals to regularly make decisions under pressure such as emergency service \cite{gullon2024prevalence}\cite{smith2011work}, military \cite{srivastava2023occupational}\cite{hellewell2018measuring}\cite{fear2009job} and transport \cite{jiao2023physiological}\cite{cahill2021pilot} personnel. In theses professions, the ability to think clearly and make sound decisions under pressure is critical to the safety and well-being of the individual and other people they may come in contact with or be responsible for, either directly or indirectly \cite{mcfarlane2021investigating}. 
+Certain career paths require individuals to regularly make decisions under pressure such as emergency service \cite{gullon2024prevalence}\cite{smith2011work}, military \cite{srivastava2023occupational}\cite{hellewell2018measuring}\cite{fear2009job} and transport \cite{jiao2023physiological}\cite{cahill2021pilot} personnel. In these professions, the ability to think clearly and make sound decisions under pressure is critical to the safety and well-being of the individual and other people they may come in contact with or be responsible for, either directly or indirectly \cite{mcfarlane2021investigating}. 
 
 For example, armed police officers may be required to make a decision on whether or not to deploy lethal force in a situation which is influenced by all of the aforementioned decision stressors, including fear. For many people, this is a scenario which they are unlikely to ever have to face. However, armed police officers could, in theory, have to make this decision regularly. 
-
-
 
 \subsection{Training for High-pressure Scenarios}
 
@@ -101,18 +119,29 @@ Repeat exposure to the feeling of stress can help individuals to become more acc
 
 One such example of this is the shouting and aggression which is often used by instructors to help recruits become accustomed to thinking while under the stress of noise and unplesant attention.
 
-As portraited in the film "Jarhead", which is based on the training of United States Marines in the early 1990s, in one scene Jake Gyllenhall's character is being slapped on the back of the head by the senior drill instructor while he is trying to recite some information. The recruit character states that he can't think while being hit on the head and the senior drill instructor retors that if he can't think while being slapped on the head, how does he expect to effectively fire his rifle in combat, an inherently stressful situation.
+As portraited in the film "Jarhead", which is based on the training of United States Marines in the early 1990s, in one scene Jake Gyllenhall's character is being slapped on the back of the head by the senior drill instructor while he is trying to recite some information. The recruit character states that he can't think while being hit on the head and the senior drill instructor retors that if he can't think while being slapped on the head, how does he expect to effectively fire his rifle in combat, an inherently stressful situation \cite{jarhead2005}.
 
-
-
+Training for high-pressure scenarios can also take place in virtual environments. Simulations can be designed to invoke the feeling of stress in a controlled environment. A study on pilots from Fire and Emergency New Zealand found that, stress levels experienced in VR training scenarios can be very similar to those experience in the real-life scenarios. \cite{clifford2019creating}
 
 \subsection{Virtual Environments for Training}
+
+Realistic virtual environments are ones which immerse users in a scenario by making it as close to the real thing as possible. Having access to physical objects and the use of one's own body to interact with the environment are preferred methods of immersion. \cite{clifford2018effect}
+
+Realism can be measured both objectivly and subjectively. \cite{gonccalves2022systematic} Objective realism is the extent to which the virtual environment is similar to the real world. Subjective realism is the extent to which the user believes the virtual environment is real. Users can perceive different levels of realism in the same virtual environment. For example, some users may hone in one the graphical fidelity of the environment, while others may focus on the interactive elements such as physics and object manipulation. One study refers to a focus on the look of a virtual environment as the "fidelity trap", as it is not safe to "assume that students learn to the level of realism". \cite{carey2020high}
 
 \subsection{Measuring Stress Levels}
 
 Data regarding the stress level of a participant can be attained by measuring a person's heart rate, heart rate recovery time, salivary cortisol and amylase. Further surveys and interviews can be conducted with volunteers to gather information. \cite{liu2018impact}
 
+Eye-tracking solutions may also be used to measure stress levels in the same way as they have been used to measure competency in martitime navigation training. \cite{atik2019use}
+
 \subsection{Application of Virtual Environments in Training for High-pressure Scenarios}
+
+Training for high-pressure scenarios can be expensive and dangerous. From 1st January 2000 to 29th February 2024, 162 UK armed forces personnel died whilst on training or exercise. \cite{ukmod2024} In a report published by the UK Ministry of Defence, the cost of 105mm artillery shells between the commencement of Operation Herrick 17 and 17th December 2014 ranged from ~£50.00 to ~£2,812.00 per shell, depending on the type of shell and other factors. \cite{ukmod2015} Assuming a cost of £50.00 per shell (at the lower end of the scale), the cost of a battery of 6 guns firing 6 shells each, per fire mission, would be £1,800.00. This is a significant cost for a single training exercise which could potentially last weeks or more. Now scale this up to the cost of a year's worth of training for the entire UK armed forces and the cost becomes astronomical. For example, exercise Steadfast Defender involved ~90,000 troops and personnel, 50+ naval assets, 80+ air platforms and over 1,1000 combat vehicles. \cite{steadfastdefender24}
+
+In 2024, an Apache helicopter deployed on an exercise in Jordan with the Utah National Guard crashed. \cite{intergalactic2024} No one was killed in the crash but the cost of the aircraft as of the crash was around 50 million USD. \cite{cbsaustin2024} It is theorised that the crash was caused by an experiened jet pilot attempting to control the rotary wing aircraft and causing an irrecoverable stall. \cite{carlisle2024}
+
+On the 13th of January, 2024, the 47th Separate Mechanized Brigade of the Ukrainian Army reported the destruction of a Russian T-90 Proryv tank. \cite{malyasov2024} It has been proven that the T-90's external systems (such as optics) were destroyed by the main cannon of a Bradley AFV, commanded by Serhiy of the Ukrainian Army. In an interview with Serhiy, he stated that he knew which parts of the tank to fire at (to damage the external systems) as he had practised in "video games" \cite{militaryconflict2025} (it is likely, although unconfirmed, that he is referring to War Thunder \cite{warthunder}).
 
 \section{Virtual Environments for Training Built in Unreal Engine 5}
 
@@ -138,13 +167,7 @@ Data regarding the stress level of a participant can be attained by measuring a 
 
 \section{Applications of this Research}
 
-The findings from this research have significant implications for the field of maritime navigation training. By demonstrating the effectiveness of consumer-ready simulation software, this study paves the way for more accessible and cost-effective training solutions. Maritime academies and training centers can integrate these simulations into their curricula, providing students with realistic and immersive training experiences without the need for expensive, specialized equipment.
 
-Furthermore, the research highlights the potential for using virtual environments to train individuals for high-pressure scenarios. This can be extended beyond maritime navigation to other fields such as aviation, military, and emergency response, where decision-making under stress is critical. The ability to create customizable and repeatable training scenarios allows for targeted skill development and assessment.
-
-Additionally, the use of digital twins and advanced simulation technologies, as explored in this study, can be applied to various industries for training, planning, and operational purposes. For instance, in the oil and gas industry, virtual simulations can be used to train personnel on complex procedures and emergency responses, thereby enhancing safety and efficiency.
-
-Overall, this research contributes to the growing body of knowledge on the use of virtual simulations in training and underscores the potential for these technologies to revolutionize training methodologies across multiple domains. 
 
 \subsection{Training for Stressful Scenarios}
 

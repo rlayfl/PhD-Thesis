@@ -5,27 +5,27 @@
 \contentsline {section}{\numberline {2}Literature Review}{7}{}%
 \contentsline {subsection}{\numberline {2.1}Maritime Navigation Training}{7}{}%
 \contentsline {subsection}{\numberline {2.2}High-pressure Scenarios and Decision-making}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Necessity for Regular Exposure to High-pressure Scenarios}{8}{}%
-\contentsline {subsection}{\numberline {2.4}Training for High-pressure Scenarios}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Virtual Environments for Training}{9}{}%
-\contentsline {subsection}{\numberline {2.6}Measuring Stress Levels}{9}{}%
-\contentsline {subsection}{\numberline {2.7}Application of Virtual Environments in Training for High-pressure Scenarios}{10}{}%
-\contentsline {section}{\numberline {3}Virtual Environments for Training Built in Unreal Engine 5}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Introduction}{10}{}%
-\contentsline {subsection}{\numberline {3.2}Digital Twins}{10}{}%
-\contentsline {subsection}{\numberline {3.3}Unreal Engine 5}{10}{}%
-\contentsline {section}{\numberline {4}Human Perception and Differentiation of Real and Virtual Environments}{10}{}%
-\contentsline {subsection}{\numberline {4.1}Introduction}{10}{}%
-\contentsline {subsection}{\numberline {4.2}Methodology}{10}{}%
-\contentsline {subsection}{\numberline {4.3}Experiment 1 - Mutilus}{10}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}What is Mutilus?}{10}{}%
-\contentsline {subsubsection}{\numberline {4.3.2}Prototype Experiments}{10}{}%
-\contentsline {subsubsection}{\numberline {4.3.3}Results}{10}{}%
-\contentsline {section}{\numberline {5}Applications of this Research}{10}{}%
-\contentsline {subsection}{\numberline {5.1}Training for Stressful Scenarios}{11}{}%
-\contentsline {section}{\numberline {6}Methodology}{11}{}%
-\contentsline {section}{\numberline {7}Results}{11}{}%
-\contentsline {section}{\numberline {8}Discussion}{11}{}%
-\contentsline {section}{\numberline {9}Conclusion}{11}{}%
-\contentsline {section}{\numberline {10}References}{11}{}%
-\contentsline {section}{\numberline {11}Appendices}{13}{}%
+\contentsline {subsection}{\numberline {2.3}Necessity for Regular Exposure to High-pressure Scenarios}{9}{}%
+\contentsline {subsection}{\numberline {2.4}Training for High-pressure Scenarios}{9}{}%
+\contentsline {subsection}{\numberline {2.5}Virtual Environments for Training}{10}{}%
+\contentsline {subsection}{\numberline {2.6}Measuring Stress Levels}{10}{}%
+\contentsline {subsection}{\numberline {2.7}Application of Virtual Environments in Training for High-pressure Scenarios}{11}{}%
+\contentsline {section}{\numberline {3}Virtual Environments for Training Built in Unreal Engine 5}{12}{}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Digital Twins}{12}{}%
+\contentsline {subsection}{\numberline {3.3}Unreal Engine 5}{12}{}%
+\contentsline {section}{\numberline {4}Human Perception and Differentiation of Real and Virtual Environments}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Introduction}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Methodology}{12}{}%
+\contentsline {subsection}{\numberline {4.3}Experiment 1 - Mutilus}{12}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}What is Mutilus?}{12}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Prototype Experiments}{12}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Results}{12}{}%
+\contentsline {section}{\numberline {5}Applications of this Research}{12}{}%
+\contentsline {subsection}{\numberline {5.1}Training for Stressful Scenarios}{12}{}%
+\contentsline {section}{\numberline {6}Methodology}{12}{}%
+\contentsline {section}{\numberline {7}Results}{12}{}%
+\contentsline {section}{\numberline {8}Discussion}{12}{}%
+\contentsline {section}{\numberline {9}Conclusion}{12}{}%
+\contentsline {section}{\numberline {10}References}{12}{}%
+\contentsline {section}{\numberline {11}Appendices}{16}{}%

@@ -14,48 +14,55 @@ Database file #1: references.bib
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 ** Sorting version - not for normal IEEE work.
+Warning--to sort, need author, organization, or key in stormworks
+Warning--to sort, need author, organization, or key in arma3
 Warning--to sort, need author, organization, or key in richiesplank
+Warning--to sort, need author, organization, or key in steadfastdefender24
+Warning--to sort, need author, organization, or key in intergalactic2024
+Warning--to sort, need author, organization, or key in cbsaustin2024
+Warning--to sort, need author, organization, or key in warthunder
+Warning--empty journal in carey2020high
 
 Done.
-You've used 14 entries,
+You've used 31 entries,
             4566 wiz_defined-function locations,
-            998 strings with 11211 characters,
-and the built_in function-call counts, 14661 in all, are:
-= -- 1347
-> -- 415
-< -- 132
-+ -- 223
-- -- 98
-* -- 815
-:= -- 2177
-add.period$ -- 29
-call.type$ -- 14
-change.case$ -- 91
-chr.to.int$ -- 288
-cite$ -- 15
-duplicate$ -- 901
-empty$ -- 933
-format.name$ -- 110
-if$ -- 3305
+            1072 strings with 14158 characters,
+and the built_in function-call counts, 24833 in all, are:
+= -- 2276
+> -- 613
+< -- 166
++ -- 326
+- -- 151
+* -- 1337
+:= -- 3800
+add.period$ -- 65
+call.type$ -- 31
+change.case$ -- 178
+chr.to.int$ -- 366
+cite$ -- 39
+duplicate$ -- 1608
+empty$ -- 1757
+format.name$ -- 165
+if$ -- 5557
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 145
-newline$ -- 67
-num.names$ -- 26
-pop$ -- 344
+int.to.str$ -- 31
+missing$ -- 286
+newline$ -- 132
+num.names$ -- 48
+pop$ -- 776
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 135
 quote$ -- 2
-skip$ -- 1075
+skip$ -- 1796
 stack$ -- 0
-substring$ -- 771
-swap$ -- 788
-text.length$ -- 36
+substring$ -- 1085
+swap$ -- 1244
+text.length$ -- 44
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 153
-warning$ -- 1
-while$ -- 75
-width$ -- 16
-write$ -- 172
-(There was 1 warning)
+type$ -- 328
+warning$ -- 8
+while$ -- 113
+width$ -- 33
+write$ -- 330
+(There were 8 warnings)

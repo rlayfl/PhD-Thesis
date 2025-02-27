@@ -21,10 +21,48 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{arma3}
+``{Arma 3},'' \url{https://store.steampowered.com/app/107410/Arma_3/},
+  accessed: 2025-02-27.
+
 \bibitem{richiesplank}
 ``{Richie's Plank Experience},''
   \url{https://store.steampowered.com/app/517160/Richies_Plank_Experience/},
   accessed: 2025-02-27.
+
+\bibitem{steadfastdefender24}
+``{Steadfast Defender 24},''
+  \url{https://www.defense.gov/Spotlights/Steadfast-Defender-24/}, accessed:
+  2025-02-27.
+
+\bibitem{stormworks}
+``{Stormworks: Build and Rescue},''
+  \url{https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/},
+  accessed: 2025-02-27.
+
+\bibitem{warthunder}
+``{War Thunder},''
+  \url{https://store.steampowered.com/app/236390/War_Thunder/}, accessed:
+  2025-02-27.
+
+\bibitem{cbsaustin2024}
+\BIBentryALTinterwordspacing
+``{Apache helicopter from Utah National Guard crashes during training},'' Feb.
+  2024, accessed: 2025-02-27. [Online]. Available:
+  \url{https://cbsaustin.com/news/nation-world/utah-national-guard-ah-64d-apache-longbow-helicopter-involved-in-training-accident-west-jordan-army-aviation-support-facility}
+\BIBentrySTDinterwordspacing
+
+\bibitem{intergalactic2024}
+\BIBentryALTinterwordspacing
+``{The AH-64 Apache: The deadliest US attack helicopter},'' Nov. 2024,
+  accessed: 2025-02-27. [Online]. Available:
+  \url{https://ig.space/commslink/the-ah-64-apache-the-deadliest-us-attack-helicopter}
+\BIBentrySTDinterwordspacing
+
+\bibitem{atik2019use}
+O.~Atik and O.~Arslan, ``Use of eye tracking for assessment of electronic
+  navigation competency in maritime training,'' \emph{Journal of eye movement
+  research}, vol.~12, no.~3, pp. 10--16\,910, 2019.
 
 \bibitem{cahill2021pilot}
 J.~Cahill, P.~Cullen, S.~Anwer, S.~Wilson, and K.~Gaynor, ``Pilot work related
@@ -32,10 +70,36 @@ J.~Cahill, P.~Cullen, S.~Anwer, S.~Wilson, and K.~Gaynor, ``Pilot work related
   \emph{The International Journal of Aerospace Psychology}, vol.~31, no.~2, pp.
   87--109, 2021.
 
+\bibitem{carey2020high}
+J.~M. Carey and K.~Rossler, ``The how when why of high fidelity simulation,''
+  2020.
+
+\bibitem{carlisle2024}
+\BIBentryALTinterwordspacing
+N.~Carlisle, ``{FOX 13 Investigates: How a colonel crashed a Utah Apache
+  helicopter he wasn’t qualified to fly},'' Aug. 2024, accessed: 2025-02-27.
+  [Online]. Available:
+  \url{https://www.fox13now.com/news/fox-13-investigates/fox-13-investigates-how-a-colonel-crashed-a-utah-apache-helicopter-he-wasnt-qualified-to-fly}
+\BIBentrySTDinterwordspacing
+
 \bibitem{chanel2009influence}
 O.~Chanel and G.~Chichilnisky, ``The influence of fear in decisions:
   Experimental evidence,'' \emph{Journal of Risk and Uncertainty}, vol.~39, pp.
   271--298, 2009.
+
+\bibitem{clifford2019creating}
+R.~M. Clifford, S.~Jung, S.~Hoermann, M.~Billinghurst, and R.~W. Lindeman,
+  ``Creating a stressful decision making environment for aerial firefighter
+  training in virtual reality,'' in \emph{2019 IEEE Conference on virtual
+  reality and 3d user interfaces (VR)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2019, pp. 181--189.
+
+\bibitem{clifford2018effect}
+R.~M. Clifford, H.~Khan, S.~Hoermann, M.~Billinghurst, and R.~W. Lindeman,
+  ``The effect of immersive displays on situation awareness in virtual
+  environments for aerial firefighting air attack supervisor training,'' in
+  \emph{2018 IEEE Conference on Virtual Reality and 3D User Interfaces
+  (VR)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2018, pp. 1--2.
 
 \bibitem{el2023walk}
 Y.~El~Basbasse, J.~Packheiser, J.~Peterburs, C.~Maymon,
@@ -49,6 +113,11 @@ N.~T. Fear, G.~J. Rubin, S.~Hatch, L.~Hull, M.~Jones, M.~Hotopf, S.~Wessely,
   and R.~J. Rona, ``Job strain, rank, and mental health in the uk armed
   forces,'' \emph{International journal of occupational and environmental
   health}, vol.~15, no.~3, pp. 291--298, 2009.
+
+\bibitem{gonccalves2022systematic}
+G.~Gon{\c{c}}alves, H.~Coelho, P.~Monteiro, M.~Melo, and M.~Bessa, ``Systematic
+  review of comparative studies of the impact of realism in immersive virtual
+  experiences,'' \emph{ACM Computing Surveys}, vol.~55, no.~6, pp. 1--36, 2022.
 
 \bibitem{gullon2024prevalence}
 P.~Gullon-Scott and L.~Longstaff, ``The prevalence of depression, anxiety,
@@ -78,10 +147,24 @@ Y.~Liu, L.~Mao, Y.~Zhao, and Y.~Huang, ``Impact of a simulated stress training
   \emph{Research quarterly for exercise and sport}, vol.~89, no.~4, pp.
   482--489, 2018.
 
+\bibitem{malyasov2024}
+\BIBentryALTinterwordspacing
+D.~Malyasov, ``Bradley fighting vehicle destroys russia’s most advanced
+  tank,'' Jan. 2024, accessed: 2025-02-27. [Online]. Available:
+  \url{https://defence-blog.com/bradley-fighting-vehicle-destroys-russias-most-advanced-tank/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{mcfarlane2021investigating}
 P.~McFarlane and A.~Amin, ``Investigating fatal police shootings using the
   human factors analysis and classification framework (hfacs),'' \emph{Police
   practice and research}, vol.~22, no.~7, pp. 1777--1791, 2021.
+
+\bibitem{militaryconflict2025}
+\BIBentryALTinterwordspacing
+{Military and Conflict}, ``{Video title (replace with actual title)},'' Feb.
+  2025, accessed: 2025-02-27. [Online]. Available:
+  \url{https://www.youtube.com/watch?v=w_wGNqBHO4w}
+\BIBentrySTDinterwordspacing
 
 \bibitem{Phillips-Wren18082020}
 \BIBentryALTinterwordspacing
@@ -90,6 +173,9 @@ G.~Phillips-Wren and M.~Adya, ``Decision making under stress: the role of
   \emph{Journal of Decision Systems}, vol.~29, no. sup1, pp. 213--225, 2020.
   [Online]. Available: \url{https://doi.org/10.1080/12460125.2020.1768680}
 \BIBentrySTDinterwordspacing
+
+\bibitem{jarhead2005}
+{Sam Mendes (Director)}, ``{Jarhead},'' 2005, {Film}.
 
 \bibitem{smith2011work}
 A.~P. Smith \emph{et~al.}, ``Work-related stress in her majesty’s
@@ -100,5 +186,19 @@ A.~P. Smith \emph{et~al.}, ``Work-related stress in her majesty’s
 M.~Srivastava, G.~Singh, P.~S. Kharwar, and S.~Jaiswal, ``Occupational stress
   among armed forces and police personnel: a review,'' \emph{Int J Community
   Med Public Health}, vol.~10, no.~3, pp. 1280--1284, 2023.
+
+\bibitem{ukmod2015}
+\BIBentryALTinterwordspacing
+{UK Ministry of Defence}, ``{Rounds Fired in Helmand},'' Aug. 2015, accessed:
+  2025-02-27. [Online]. Available:
+  \url{https://assets.publishing.service.gov.uk/media/5a800dcded915d74e33f82c4/20150810-T3-FOI2014_05560_Rounds_fired_in_Helmand.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ukmod2024}
+\BIBentryALTinterwordspacing
+------, ``{UK Armed Forces Training and Exercise Deaths},'' Apr. 2024,
+  accessed: 2025-02-27. [Online]. Available:
+  \url{https://assets.publishing.service.gov.uk/media/66056f6ef9ab410011eea4ec/20240404_UK_armed_forces_Training_and_Exercise_deaths-O.pdf}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
