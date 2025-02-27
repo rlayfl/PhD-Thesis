@@ -24,6 +24,7 @@ INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdft
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.aux
@@ -46,17 +47,18 @@ OUTPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.p
 INPUT .\images\logo.jpeg
 INPUT .\images\logo.jpeg
 INPUT .\images\logo.jpeg
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss17.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.toc
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.toc
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.toc
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -74,11 +76,17 @@ INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lo
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lof
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lof
 OUTPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lof
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\literature-review.bbl
+INPUT .\literature-review.bbl
+INPUT literature-review.bbl
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssi12.tfm
 INPUT d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.aux
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi12.pfb
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi12.pfb

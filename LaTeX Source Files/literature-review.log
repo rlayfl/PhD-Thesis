@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  26 FEB 2025 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  27 FEB 2025 19:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -53,20 +53,20 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.aux)
 \openout1 = `literature-review.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count194
@@ -89,51 +89,70 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <images/logo.jpeg, id=1, 564.60938pt x 323.70938pt>
 File: images/logo.jpeg Graphic file (type jpg)
 <use images/logo.jpeg>
-Package pdftex.def Info: images/logo.jpeg  used on input line 20.
+Package pdftex.def Info: images/logo.jpeg  used on input line 22.
 (pdftex.def)             Requested size: 77.99881pt x 44.71638pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 20.
+(Font)              <14.4> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 22.
  [1
 
 {C:/Users/Richard/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo.jpeg>] [2] [3] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
-)
+(Font)              <6> on input line 2.
+ [4])
 \tf@toc=\write3
 \openout3 = `literature-review.toc'.
 
- (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lot)
+ [5] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lot)
 \tf@lot=\write4
 \openout4 = `literature-review.lot'.
 
- (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lof)
+ [6] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.lof)
 \tf@lof=\write5
 \openout5 = `literature-review.lof'.
 
- [4] [5] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.aux)
+
+
+LaTeX Warning: Citation `richiesplankexperience' on page 7 undefined on input line 85.
+
+
+Overfull \hbox (0.8926pt too wide) in paragraph at lines 85--86
+[]\OT1/cmss/m/n/12 Some ex-am-ples of high-pressure sit-u-a-tions in-clude emer-gen-cies, meet-ing dead-
+ []
+
+
+LaTeX Warning: Citation `el2023walk' on page 7 undefined on input line 88.
+
+[7] [8] (literature-review.bbl
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 8.
+ [9]) [10] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 1403 strings out of 475248
- 24432 string characters out of 5756868
- 1924785 words of memory out of 5000000
- 22950 multiletter control sequences out of 15000+600000
- 563237 words of font info for 53 fonts, out of 8000000 for 9000
+ 1428 strings out of 475248
+ 24961 string characters out of 5756868
+ 1927785 words of memory out of 5000000
+ 22969 multiletter control sequences out of 15000+600000
+ 564185 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,525b,208s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.pdf" (5 pages, 69609 bytes).
+ 57i,6n,65p,701b,217s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
+Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\literature-review.pdf" (10 pages, 90719 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
