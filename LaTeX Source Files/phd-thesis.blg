@@ -17,52 +17,61 @@ Database file #1: references.bib
 Warning--to sort, need author, organization, or key in stormworks
 Warning--to sort, need author, organization, or key in arma3
 Warning--to sort, need author, organization, or key in richiesplank
+Warning--to sort, need author, organization, or key in britannicaVR
+Warning--to sort, need author, organization, or key in axonVRTraining
+Warning--to sort, need author, organization, or key in axonVRTrainingUK
+Warning--to sort, need author, organization, or key in ibmDigitalTwin
+Warning--to sort, need author, organization, or key in dcsworld
+Warning--to sort, need author, organization, or key in iracing
+Warning--to sort, need author, organization, or key in battlefield4
+Warning--to sort, need author, organization, or key in ukcatt
 Warning--to sort, need author, organization, or key in steadfastdefender24
 Warning--to sort, need author, organization, or key in intergalactic2024
 Warning--to sort, need author, organization, or key in cbsaustin2024
 Warning--to sort, need author, organization, or key in warthunder
+Warning--empty journal in anderson2024blending
 Warning--empty journal in carey2020high
 
 Done.
-You've used 31 entries,
+You've used 46 entries,
             4566 wiz_defined-function locations,
-            1072 strings with 14158 characters,
-and the built_in function-call counts, 24833 in all, are:
-= -- 2276
-> -- 613
-< -- 166
-+ -- 326
-- -- 151
-* -- 1337
-:= -- 3800
-add.period$ -- 65
-call.type$ -- 31
-change.case$ -- 178
-chr.to.int$ -- 366
-cite$ -- 39
-duplicate$ -- 1608
-empty$ -- 1757
-format.name$ -- 165
-if$ -- 5557
+            1138 strings with 16456 characters,
+and the built_in function-call counts, 32526 in all, are:
+= -- 2991
+> -- 741
+< -- 179
++ -- 392
+- -- 185
+* -- 1702
+:= -- 5011
+add.period$ -- 96
+call.type$ -- 46
+change.case$ -- 252
+chr.to.int$ -- 390
+cite$ -- 63
+duplicate$ -- 2181
+empty$ -- 2401
+format.name$ -- 202
+if$ -- 7270
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 286
-newline$ -- 132
-num.names$ -- 48
-pop$ -- 776
+int.to.str$ -- 46
+missing$ -- 404
+newline$ -- 183
+num.names$ -- 62
+pop$ -- 1158
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 182
 quote$ -- 2
-skip$ -- 1796
+skip$ -- 2355
 stack$ -- 0
-substring$ -- 1085
-swap$ -- 1244
-text.length$ -- 44
+substring$ -- 1267
+swap$ -- 1575
+text.length$ -- 49
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 328
-warning$ -- 8
-while$ -- 113
-width$ -- 33
-write$ -- 330
-(There were 8 warnings)
+type$ -- 482
+warning$ -- 17
+while$ -- 132
+width$ -- 48
+write$ -- 455
+(There were 17 warnings)

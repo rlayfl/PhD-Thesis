@@ -25,6 +25,20 @@
 ``{Arma 3},'' \url{https://store.steampowered.com/app/107410/Arma_3/},
   accessed: 2025-02-27.
 
+\bibitem{battlefield4}
+``{Battlefield 4},''
+  \url{https://store.steampowered.com/app/1238860/Battlefield_4/}, accessed:
+  2025-02-27.
+
+\bibitem{dcsworld}
+``{DCS World Steam Edition},''
+  \url{https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/},
+  accessed: 2025-02-27.
+
+\bibitem{iracing}
+``{iRacing},'' \url{https://store.steampowered.com/app/266410/iRacing/},
+  accessed: 2025-02-27.
+
 \bibitem{richiesplank}
 ``{Richie's Plank Experience},''
   \url{https://store.steampowered.com/app/517160/Richies_Plank_Experience/},
@@ -40,10 +54,35 @@
   \url{https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/},
   accessed: 2025-02-27.
 
+\bibitem{ukcatt}
+``{UK Combined Arms Tactical Trainer (UK CATT)},''
+  \url{https://www.lockheedmartin.com/en-gb/products/uk-combined-arms-tactical-trainer-uk-catt.html},
+  accessed: 2025-02-27.
+
+\bibitem{britannicaVR}
+``{Virtual Reality},''
+  \url{https://www.britannica.com/technology/virtual-reality}, accessed:
+  2025-02-27.
+
+\bibitem{axonVRTrainingUK}
+``{Virtual Reality Training},'' \url{https://uk.axon.com/training/vr},
+  accessed: 2025-02-27.
+
+\bibitem{axonVRTraining}
+``{VR police training: 4 benefits and use cases for leveraging VR training
+  tools},'' \url{https://www.axon.com/resources/vr-police-training}, accessed:
+  2025-02-27.
+
 \bibitem{warthunder}
 ``{War Thunder},''
   \url{https://store.steampowered.com/app/236390/War_Thunder/}, accessed:
   2025-02-27.
+
+\bibitem{ibmDigitalTwin}
+\BIBentryALTinterwordspacing
+``{What is a digital twin?}'' Aug. 2021, accessed: 2025-02-27. [Online].
+  Available: \url{https://www.ibm.com/think/topics/what-is-a-digital-twin}
+\BIBentrySTDinterwordspacing
 
 \bibitem{cbsaustin2024}
 \BIBentryALTinterwordspacing
@@ -59,10 +98,18 @@
   \url{https://ig.space/commslink/the-ah-64-apache-the-deadliest-us-attack-helicopter}
 \BIBentrySTDinterwordspacing
 
+\bibitem{anderson2024blending}
+E.~F. Anderson and T.~Cousins, ``Blending ww2 history with the present in an
+  interactive virtual heritage experience,'' 2024.
+
 \bibitem{atik2019use}
 O.~Atik and O.~Arslan, ``Use of eye tracking for assessment of electronic
   navigation competency in maritime training,'' \emph{Journal of eye movement
   research}, vol.~12, no.~3, pp. 10--16\,910, 2019.
+
+\bibitem{axonYouTube}
+{Axon}, ``{Tomorrow's Training is here},''
+  \url{https://www.youtube.com/watch?v=Dvbp9ihzB2k}, accessed: 2025-02-27.
 
 \bibitem{cahill2021pilot}
 J.~Cahill, P.~Cullen, S.~Anwer, S.~Wilson, and K.~Gaynor, ``Pilot work related
@@ -119,6 +166,13 @@ G.~Gon{\c{c}}alves, H.~Coelho, P.~Monteiro, M.~Melo, and M.~Bessa, ``Systematic
   review of comparative studies of the impact of realism in immersive virtual
   experiences,'' \emph{ACM Computing Surveys}, vol.~55, no.~6, pp. 1--36, 2022.
 
+\bibitem{greenwald2020}
+\BIBentryALTinterwordspacing
+W.~Greenwald, ``{Oculus Quest 2 vs. Oculus Rift S: Which VR Headset Should You
+  Buy?}'' Nov. 2020, accessed: 2025-02-27. [Online]. Available:
+  \url{https://uk.pcmag.com/comparison/130136/oculus-quest-2-vs-oculus-rift-s-which-vr-headset-should-you-buy}
+\BIBentrySTDinterwordspacing
+
 \bibitem{gullon2024prevalence}
 P.~Gullon-Scott and L.~Longstaff, ``The prevalence of depression, anxiety,
   stress and their relationship to length of service in the uk police force,''
@@ -136,6 +190,12 @@ Y.~Jiao, Z.~Sun, L.~Fu, X.~Yu, C.~Jiang, X.~Zhang, K.~Liu, and X.~Chen,
   \emph{International Journal of Rail Transportation}, vol.~11, no.~4, pp.
   449--464, 2023.
 
+\bibitem{kaplan2021effects}
+A.~D. Kaplan, J.~Cruit, M.~Endsley, S.~M. Beers, B.~D. Sawyer, and P.~A.
+  Hancock, ``The effects of virtual reality, augmented reality, and mixed
+  reality as training enhancement methods: A meta-analysis,'' \emph{Human
+  factors}, vol.~63, no.~4, pp. 706--726, 2021.
+
 \bibitem{klein2013effect}
 G.~Klein, ``The effect of acute stressors on decision making,'' in \emph{Stress
   and human performance}.\hskip 1em plus 0.5em minus 0.4em\relax Psychology
@@ -146,6 +206,13 @@ Y.~Liu, L.~Mao, Y.~Zhao, and Y.~Huang, ``Impact of a simulated stress training
   program on the tactical shooting performance of swat trainees,''
   \emph{Research quarterly for exercise and sport}, vol.~89, no.~4, pp.
   482--489, 2018.
+
+\bibitem{longo2023prepare}
+F.~Longo, A.~Padovano, F.~De~Felice, A.~Petrillo, and M.~Elbasheer, ``From
+  “prepare for the unknown” to “train for what's coming”: A digital
+  twin-driven and cognitive training approach for the workforce of the future
+  in smart factories,'' \emph{Journal of Industrial Information Integration},
+  vol.~32, p. 100437, 2023.
 
 \bibitem{malyasov2024}
 \BIBentryALTinterwordspacing
@@ -158,6 +225,10 @@ D.~Malyasov, ``Bradley fighting vehicle destroys russia’s most advanced
 P.~McFarlane and A.~Amin, ``Investigating fatal police shootings using the
   human factors analysis and classification framework (hfacs),'' \emph{Police
   practice and research}, vol.~22, no.~7, pp. 1777--1791, 2021.
+
+\bibitem{reevesYouTube}
+{Michael Reeves}, ``{Trigger Me Elmo | World's First Race Detecting Toy},''
+  \url{https://www.youtube.com/watch?v=Q8QlNuTUe4M}, accessed: 2025-02-27.
 
 \bibitem{militaryconflict2025}
 \BIBentryALTinterwordspacing
@@ -176,6 +247,13 @@ G.~Phillips-Wren and M.~Adya, ``Decision making under stress: the role of
 
 \bibitem{jarhead2005}
 {Sam Mendes (Director)}, ``{Jarhead},'' 2005, {Film}.
+
+\bibitem{Scott2022}
+\BIBentryALTinterwordspacing
+T.~Scott. (2022) This 1970s tank simulator drives through a tiny world.
+  Accessed: 2025-03-12. [Online]. Available:
+  \url{https://www.youtube.com/watch?v=AcQifPHcMLE}
+\BIBentrySTDinterwordspacing
 
 \bibitem{smith2011work}
 A.~P. Smith \emph{et~al.}, ``Work-related stress in her majesty’s
