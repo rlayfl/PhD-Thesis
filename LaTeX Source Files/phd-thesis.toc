@@ -9,40 +9,40 @@
 \contentsline {subsection}{\numberline {2.4}Training for High-pressure Scenarios}{10}{}%
 \contentsline {subsection}{\numberline {2.5}Application of Virtual Environments for Training}{11}{}%
 \contentsline {subsubsection}{\numberline {2.5.1}Success in other Industries}{12}{}%
-\contentsline {subsubsection}{\numberline {2.5.2}Virtual Reality (VR)}{12}{}%
-\contentsline {subsubsection}{\numberline {2.5.3}Advandages of VR}{12}{}%
-\contentsline {subsubsection}{\numberline {2.5.4}Disadvantages of VR}{12}{}%
-\contentsline {subsubsection}{\numberline {2.5.5}Digital Twins}{12}{}%
-\contentsline {subsection}{\numberline {2.6}Creating Realistic Virtual Environments}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.1}Key Design Princples}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.2}Defining Realism}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.3}Generation of HDRI Backdrops}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.4}Photogrammetry}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.5}3D Printing}{14}{}%
-\contentsline {subsubsection}{\numberline {2.6.6}Tactile Models to Support Training in Virtual Environments}{14}{}%
-\contentsline {subsection}{\numberline {2.7}Measuring Stress Levels}{14}{}%
-\contentsline {subsection}{\numberline {2.8}Application of Virtual Environments in Training for High-pressure Scenarios}{14}{}%
-\contentsline {subsection}{\numberline {2.9}Challenges with Maritime Experimentation}{16}{}%
-\contentsline {subsubsection}{\numberline {2.9.1}Gathering Data}{16}{}%
-\contentsline {subsubsection}{\numberline {2.9.2}Minimising Risk}{16}{}%
-\contentsline {subsubsection}{\numberline {2.9.3}Logistics}{16}{}%
-\contentsline {subsubsection}{\numberline {2.9.4}Ethical Considerations}{16}{}%
-\contentsline {subsection}{\numberline {2.10}Preparation for Experiments in Potentially Dangerous Situations}{16}{}%
+\contentsline {subsection}{\numberline {2.6}Virtual Reality (VR)}{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Advandages of VR}{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Disadvantages of VR}{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Digital Twins}{13}{}%
+\contentsline {subsection}{\numberline {2.7}Creating Realistic Virtual Environments}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.1}Key Design Princples}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.2}Defining Realism}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.3}Generation of HDRI Backdrops}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.4}Photogrammetry}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.5}3D Printing}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.6}Tactile Models to Support Training in Virtual Environments}{14}{}%
+\contentsline {subsection}{\numberline {2.8}Measuring Stress Levels}{14}{}%
+\contentsline {subsection}{\numberline {2.9}Application of Virtual Environments in Training for High-pressure Scenarios}{15}{}%
+\contentsline {subsection}{\numberline {2.10}Challenges with Maritime Experimentation}{16}{}%
 \contentsline {subsubsection}{\numberline {2.10.1}Gathering Data}{16}{}%
 \contentsline {subsubsection}{\numberline {2.10.2}Minimising Risk}{16}{}%
-\contentsline {subsection}{\numberline {2.11}Preparation for Maritime Experimentation}{16}{}%
-\contentsline {subsubsection}{\numberline {2.11.1}Volunteers}{16}{}%
-\contentsline {subsubsection}{\numberline {2.11.2}Apparatus}{16}{}%
-\contentsline {subsection}{\numberline {2.12}Performance Measures}{16}{}%
-\contentsline {subsubsection}{\numberline {2.12.1}Simulation}{17}{}%
-\contentsline {subsubsection}{\numberline {2.12.2}Real-world}{17}{}%
-\contentsline {subsection}{\numberline {2.13}Preparation for Simulator Experimentation}{17}{}%
-\contentsline {subsubsection}{\numberline {2.13.1}Volunteers}{17}{}%
-\contentsline {subsubsection}{\numberline {2.13.2}Apparatus}{18}{}%
-\contentsline {subsection}{\numberline {2.14}Consumer-ready Simulation Software}{18}{}%
-\contentsline {subsection}{\numberline {2.15}Data Collection}{18}{}%
-\contentsline {subsubsection}{\numberline {2.15.1}Simulation}{18}{}%
-\contentsline {subsubsection}{\numberline {2.15.2}Real-world}{18}{}%
+\contentsline {subsubsection}{\numberline {2.10.3}Logistics}{16}{}%
+\contentsline {subsubsection}{\numberline {2.10.4}Ethical Considerations}{16}{}%
+\contentsline {subsection}{\numberline {2.11}Preparation for Experiments in Potentially Dangerous Situations}{16}{}%
+\contentsline {subsubsection}{\numberline {2.11.1}Gathering Data}{16}{}%
+\contentsline {subsubsection}{\numberline {2.11.2}Minimising Risk}{17}{}%
+\contentsline {subsection}{\numberline {2.12}Preparation for Maritime Experimentation}{17}{}%
+\contentsline {subsubsection}{\numberline {2.12.1}Volunteers}{17}{}%
+\contentsline {subsubsection}{\numberline {2.12.2}Apparatus}{17}{}%
+\contentsline {subsection}{\numberline {2.13}Performance Measures}{17}{}%
+\contentsline {subsubsection}{\numberline {2.13.1}Simulation}{17}{}%
+\contentsline {subsubsection}{\numberline {2.13.2}Real-world}{17}{}%
+\contentsline {subsection}{\numberline {2.14}Preparation for Simulator Experimentation}{17}{}%
+\contentsline {subsubsection}{\numberline {2.14.1}Volunteers}{17}{}%
+\contentsline {subsubsection}{\numberline {2.14.2}Apparatus}{18}{}%
+\contentsline {subsection}{\numberline {2.15}Consumer-ready Simulation Software}{18}{}%
+\contentsline {subsection}{\numberline {2.16}Data Collection}{18}{}%
+\contentsline {subsubsection}{\numberline {2.16.1}Simulation}{18}{}%
+\contentsline {subsubsection}{\numberline {2.16.2}Real-world}{18}{}%
 \contentsline {section}{\numberline {3}Building Virtual Environments for Training in Unreal Engine 5}{18}{}%
 \contentsline {subsection}{\numberline {3.1}Introduction}{18}{}%
 \contentsline {subsection}{\numberline {3.2}Digital Twins}{18}{}%

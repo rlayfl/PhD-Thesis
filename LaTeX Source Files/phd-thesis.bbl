@@ -134,6 +134,11 @@ O.~Chanel and G.~Chichilnisky, ``The influence of fear in decisions:
   Experimental evidence,'' \emph{Journal of Risk and Uncertainty}, vol.~39, pp.
   271--298, 2009.
 
+\bibitem{chang2020virtual}
+E.~Chang, H.~T. Kim, and B.~Yoo, ``Virtual reality sickness: a review of causes
+  and measurements,'' \emph{International Journal of Human--Computer
+  Interaction}, vol.~36, no.~17, pp. 1658--1682, 2020.
+
 \bibitem{clifford2019creating}
 R.~M. Clifford, S.~Jung, S.~Hoermann, M.~Billinghurst, and R.~W. Lindeman,
   ``Creating a stressful decision making environment for aerial firefighter
@@ -148,6 +153,12 @@ R.~M. Clifford, H.~Khan, S.~Hoermann, M.~Billinghurst, and R.~W. Lindeman,
   \emph{2018 IEEE Conference on Virtual Reality and 3D User Interfaces
   (VR)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2018, pp. 1--2.
 
+\bibitem{da2010use}
+L.~Da~Dalto, F.~Benus, and O.~Balet, ``The use and benefits of virtual reality
+  tools for the welding training,'' in \emph{63rd Annual Assembly \&
+  International Conference of the International Institute of Welding, Istanbul,
+  Turkey}, 2010, p.~32.
+
 \bibitem{el2023walk}
 Y.~El~Basbasse, J.~Packheiser, J.~Peterburs, C.~Maymon,
   O.~G{\"u}nt{\"u}rk{\"u}n, G.~Grimshaw, and S.~Ocklenburg, ``Walk the plank!
@@ -160,6 +171,12 @@ N.~T. Fear, G.~J. Rubin, S.~Hatch, L.~Hull, M.~Jones, M.~Hotopf, S.~Wessely,
   and R.~J. Rona, ``Job strain, rank, and mental health in the uk armed
   forces,'' \emph{International journal of occupational and environmental
   health}, vol.~15, no.~3, pp. 291--298, 2009.
+
+\bibitem{fernandes2016combating}
+A.~S. Fernandes and S.~K. Feiner, ``Combating vr sickness through subtle
+  dynamic field-of-view modification,'' in \emph{2016 IEEE symposium on 3D user
+  interfaces (3DUI)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2016, pp.
+  201--210.
 
 \bibitem{gonccalves2022systematic}
 G.~Gon{\c{c}}alves, H.~Coelho, P.~Monteiro, M.~Melo, and M.~Bessa, ``Systematic
@@ -214,6 +231,12 @@ F.~Longo, A.~Padovano, F.~De~Felice, A.~Petrillo, and M.~Elbasheer, ``From
   in smart factories,'' \emph{Journal of Industrial Information Integration},
   vol.~32, p. 100437, 2023.
 
+\bibitem{makransky2019motivational}
+G.~Makransky, S.~Borre-Gude, and R.~E. Mayer, ``Motivational and cognitive
+  benefits of training in immersive virtual reality based on multiple
+  assessments,'' \emph{Journal of Computer Assisted Learning}, vol.~35, no.~6,
+  pp. 691--707, 2019.
+
 \bibitem{malyasov2024}
 \BIBentryALTinterwordspacing
 D.~Malyasov, ``Bradley fighting vehicle destroys russia’s most advanced
@@ -244,6 +267,23 @@ G.~Phillips-Wren and M.~Adya, ``Decision making under stress: the role of
   \emph{Journal of Decision Systems}, vol.~29, no. sup1, pp. 213--225, 2020.
   [Online]. Available: \url{https://doi.org/10.1080/12460125.2020.1768680}
 \BIBentrySTDinterwordspacing
+
+\bibitem{RecRoomVRMovement}
+\BIBentryALTinterwordspacing
+{Rec Room Support}, ``{VR Movement Options},'' 2022, accessed: Mar. 15, 2025.
+  [Online]. Available:
+  \url{https://recroom.zendesk.com/hc/en-us/articles/4533103771927-VR-Movement-Options}
+\BIBentrySTDinterwordspacing
+
+\bibitem{regan1995investigation}
+C.~Regan, ``An investigation into nausea and other side-effects of head-coupled
+  immersive virtual reality,'' \emph{Virtual Reality}, vol.~1, no.~1, pp.
+  17--31, 1995.
+
+\bibitem{ruthenbeck2015virtual}
+G.~S. Ruthenbeck and K.~J. Reynolds, ``Virtual reality for medical training:
+  the state-of-the-art,'' \emph{Journal of Simulation}, vol.~9, no.~1, pp.
+  16--26, 2015.
 
 \bibitem{jarhead2005}
 {Sam Mendes (Director)}, ``{Jarhead},'' 2005, {Film}.
