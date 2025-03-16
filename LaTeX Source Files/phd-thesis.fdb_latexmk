@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex LaTeX Source Files/phd-thesis"] 1742045415 "LaTeX Source Files/phd-thesis.aux" "LaTeX Source Files/phd-thesis.bbl" "LaTeX Source Files/phd-thesis" 1742045417 0
-  "./references.bib" 1742044546 15856 2941c1c68e3d6cee856bbf613d621395 ""
+["bibtex LaTeX Source Files/phd-thesis"] 1742159603 "LaTeX Source Files/phd-thesis.aux" "LaTeX Source Files/phd-thesis.bbl" "LaTeX Source Files/phd-thesis" 1742159614 0
+  "./references.bib" 1742159561 21071 5a938e1845de88c1feaffacda4d785d6 ""
   "C:/Users/Richard/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/ieeetrans.bst" 1440622569 61730 614a61a3af01043d45925bdf2bd38471 ""
-  "LaTeX Source Files/phd-thesis.aux" 1742045416 11769 16202344b2db7baa18bbb363e6700516 "pdflatex"
+  "LaTeX Source Files/phd-thesis.aux" 1742159613 15411 7cf07b07978b5adf65954a008eddc02f "pdflatex"
   (generated)
   "LaTeX Source Files/phd-thesis.bbl"
   "LaTeX Source Files/phd-thesis.blg"
   (rewritten before read)
-["pdflatex"] 1742045415 "d:/PhD Computer Science/PhD-Thesis/phd-thesis.tex" "LaTeX Source Files/phd-thesis.pdf" "phd-thesis" 1742045417 0
+["pdflatex"] 1742159611 "d:/PhD Computer Science/PhD-Thesis/phd-thesis.tex" "LaTeX Source Files/phd-thesis.pdf" "phd-thesis" 1742159614 0
   "C:/Users/Richard/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741297857 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Richard/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1200.pk" 1740689852 12828 6203c6aa0557adb933fe91e361847b89 ""
   "C:/Users/Richard/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1700154992 24142853 6fdd389df37d4bb50167b29e1485d69a ""
@@ -49,19 +49,26 @@
   "C:/Users/Richard/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
   "C:/Users/Richard/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "C:/Users/Richard/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "LaTeX Source Files/phd-thesis.aux" 1742045416 11769 16202344b2db7baa18bbb363e6700516 "pdflatex"
-  "LaTeX Source Files/phd-thesis.bbl" 1742045415 13928 95b1d8a54ffccba6c3919007d749dd3c "bibtex LaTeX Source Files/phd-thesis"
-  "LaTeX Source Files/phd-thesis.lof" 1742045416 588 e47999301855b19418c417afeef30a3c "pdflatex"
-  "LaTeX Source Files/phd-thesis.lot" 1742045415 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "LaTeX Source Files/phd-thesis.toc" 1742045416 5032 00bfa41ecc4649a06aaad2069f9d3995 "pdflatex"
+  "LaTeX Source Files/phd-thesis.aux" 1742159613 15411 7cf07b07978b5adf65954a008eddc02f "pdflatex"
+  "LaTeX Source Files/phd-thesis.bbl" 1742159603 18425 04978b8f842fd0b3ab39e3c2d528950d "bibtex LaTeX Source Files/phd-thesis"
+  "LaTeX Source Files/phd-thesis.lof" 1742159613 1556 ab918defd0bdbb5dcdb1bf9b2502b352 "pdflatex"
+  "LaTeX Source Files/phd-thesis.lot" 1742159612 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "LaTeX Source Files/phd-thesis.toc" 1742159613 5602 33b059fa73bc9dac7812e867297d48ee "pdflatex"
   "d:/PhD" 1738524191 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "d:/PhD Computer Science/PhD-Thesis/phd-thesis.tex" 1742045411 21047 bafe4536d89f62976fcbe42fcfa1d5fd ""
+  "d:/PhD Computer Science/PhD-Thesis/phd-thesis.tex" 1742159610 30638 8b56088e98efdf27b8c16e9f73e18173 ""
+  "images/ebay-screenshot-rift-s.png" 1742049180 377494 179cda7262d2e7fe4f60f0c5f12de08c ""
   "images/falklands-arma.jpg" 1655030852 515577 23fcb8817665135e158850a69ecca44b ""
+  "images/josh-mocap-concert.png" 1742053948 173597 f65d61c9eca1ff951c501a9118354d5c ""
   "images/logo.jpeg" 1740514275 15217 79a8ce1073191299236279595c245c68 ""
   "images/max_vdh_norway.jpg" 1740695886 853553 48ddd04073e1970b68e1c569737eb7c9 ""
   "images/michael reeves.png" 1740695448 514450 b525193d7597e79568673c701903efc9 ""
   "images/tamar-class-lifeboat-stormworks.jpg" 1733835838 330951 6cd906049840962fbab78ee147442856 ""
-  "phd-thesis.tex" 1742045411 21047 bafe4536d89f62976fcbe42fcfa1d5fd ""
+  "images/winch 3d model.png" 1742154007 472920 6c6bdc4a727d013aade2d812dbc73bd3 ""
+  "images/winch photogrammetry project.png" 1742154562 908402 99c8cb42abb03429c239f4c6129dc727 ""
+  "images/winch photogrammetry.png" 1742141999 1090058 3500efbdaf4b03edc04e225fd7701be6 ""
+  "images/wivenhoe-buoy.png" 1742139273 357848 d29077e1db7cfd8c69762c744105acce ""
+  "images/wivenhoe-google-maps.png" 1742140672 1284558 1b5504070b55de91ea153fdfd3851f77 ""
+  "phd-thesis.tex" 1742159610 30638 8b56088e98efdf27b8c16e9f73e18173 ""
   (generated)
   "LaTeX Source Files/phd-thesis.aux"
   "LaTeX Source Files/phd-thesis.lof"

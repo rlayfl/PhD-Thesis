@@ -69,7 +69,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 \section{Introduction}
 
-\subsection{The Benefits of Simulation in Training}
+\subsection{Research Questions}
+
+What is the impact of exposure, at different levels, to high-pressure scenarios in a virtual environment on a person's ability to make decisions in real life?
+
+How do decision stressors impact the performance of users undertaking maritime navigation tasks in a virtual environment?
+
+How do stress levels of volunteers in simulated high-pressure maritime navigation situations compare to volunteers in real maritime navigation?
+
+Is there a difference in performance of volunteers in high-pressure maritime navigation situations in virtual worlds as compared to the real world?
+
+\subsection{The Benefits of Consumer-ready Simulation in Training}
+
+Simulation is a powerful tool for training, especially for high-pressure scenarios. It allows people to practice skills in a controlled environment without the risk of injury or damage to overly expensive equipment. With the cost of a consumer-ready simulator setup being under £1,000, it can be a cost-effective way of training for a multitude of scenarios.
+
+
+\subsection{Consumer-ready Simulation Software}
+
+Consumer/customer ready products are ones which are "fully functioning and ready for shipment to and use by an end user which does not require manufacturing or integration services". \cite{LawInsiderCustomerReady} In the context of simulation software, this means that the software is "plug and play", such as a video game, requiring minimal technical knowledge to operate. 
+
+While being "plug and play" is also possible with commercial simulation software, it is also often very expensive \cite{ESIGamesStore}\cite{BISimVBS4Update} or only available to certain industries, due to it containing trade or military secrets \cite{BISimShipWalkthrough}. 
+
+
+\subsubsection{Sectors}
+
+Many sectors such as military, search and rescue, farming, factory work, driving and aviation have consumer-ready simulation software available. These are widely used for recreation purposes but can also be used for training. For example, the game Stormworks: Build and Rescue \cite{stormworks} allows players to build and operate their own search and rescue vehicles in a variety of realistic scenarios. The Arma series allows players to create and play out military scenarios in realistic environments \cite{arma3} with groups of people often meeting up online on a regular basis to play these scenarios for enjoyment \cite{42CommandoArma3} \cite{BourboneFreeman}. These military simulation communities are able to achieve impressive levels of realism in their scenarios, often with little to no real life military experience of their own. 
+
+\subsubsection{Building Virtual Environments}
+
+Many types of simulation software are released with some form of tools which allow users to create their own virtual environments.
+
+\subsubsection{Using Ready Made Virtual Environments}
 
 \subsection{The Importance of Training for High-pressure Scenarios}
 
@@ -145,11 +175,23 @@ Commercially available VR devices, often used for recreation, including devices 
 
 "I have never seen the sort of intense demand that we're seeing for virtual reality training." - Rick Smith AXON CEO and Founder. \cite{axonYouTube}
 
-\subsubsection{Advandages of VR}
+\subsubsection{Advandages of VR for Training}
 
-Virtual reality is now widely accessible, with the cost of a used Oculus Rift S headset being less than £100. Paired with a decent gaming computer, the cost of entry to a high fidelity VR simulation is at its lowest ever. 
+Virtual reality is now widely accessible, with the cost of a used Oculus Rift S headset being less than £100. Paired with a decent gaming computer, the cost of entry to a high fidelity VR simulation is at its lowest ever.
 
-\subsubsection{Disadvantages of VR}
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.9\linewidth}
+    \includegraphics[width=\linewidth]{images/ebay-screenshot-rift-s.png}
+    \caption{The cost of a boxed Oculus Rift S headset on Ebay as of 15th March 2025}
+    \label{fig:ebayOculusRiftS}
+  \end{minipage}
+\end{figure}
+
+
+This is a significant advantage of VR for training as it begins as a cost-effective method of reducing the risk of injury to personnel and damage to equipment. Furthermore, VR training can allow people access to environments, in true to life scale, at the same time as other people, regardless of their location (assuming they have enough space to move around in). This is an advantage over traditional monitor-based immersive environments which don't give the sense of presence that VR does \cite{makransky2017development}.
+
+\subsubsection{Disadvantages of VR for Training}
 
 One main disadvantage of VR is the potential for the user to experience virtual reality sickness (VR sickness). VR sickness can be caused by the user perceiving self-motion by moving around in the virtual environment while remaining stationary in the real world. This can cause the user to feel symptoms which are very similar to motion sickness. \cite{chang2020virtual} This has been a recognised disadvantage of VR since at least 1995 \cite{regan1995investigation}, when the technology was not readily available to the public and is still an on-going issue. While some different games and pieces of hardware attempt to alleviate the symptoms, such as narrowing the field of view while a person is moving in game \cite{RecRoomVRMovement}\cite{fernandes2016combating}, the issue is still present.
 
@@ -172,19 +214,92 @@ Digital twins do also have limitations in that, if not implemented accurately, t
   \end{minipage}
 \end{figure}
 
+\subsection{Applications of Virtual Technology for Research}
+
+VR being based on software means that all of the data being supplied to and received from the headset and peripherals can be tracked. This data can be used to study exactly how a person moves and reacts in a given scenario. \cite{baldominos2015approach}
+
+During the filming of a music video for a concert to be in held in the video game Roblox, \cite{Roblox}, the members of the band 21 Pilots wore motion capture (mocap) suits to record their movements. The data from the mocap suits was used to animate the band members' characters in the game. \cite{YouTubeVideo21Pilots} In a comedic example of the movement data which can be captured, one of the band members, Josh, is seen in the software using a lavatory \cite{RedditPost21Pilots} as seen in figure \ref{fig:joshmocapconcert}.
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/josh-mocap-concert.png}
+    \caption{Josh from 21 Pilots using a lavatory in a mocap suit}
+    \label{fig:joshmocapconcert}
+  \end{minipage}
+\end{figure}
+
+Studying a person's eye movements can also be an effective way of measuring their competency or mental state in a given task. For example, people tend to fixate their gaze on a certain point when under extreme stress (sometimes known as tunnel vision) \cite{herten2017role}. Eye tracking is possibility in virtual reality \cite{clay2019eye} so could be used as a partial measure to measure a person's stress levels. 
+
+
 \subsection{Creating Realistic Virtual Environments}
 
 \subsubsection{Key Design Princples}
 
 \subsubsection{Defining Realism}
 
+- Research paper here about defining realism -
+
 \subsubsection{Generation of HDRI Backdrops}
 
-\subsubsection{Photogrammetry}
+A HDRI backdrop can be used to 
 
-\subsubsection{3D Printing}
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/wivenhoe-buoy.png}
+    \caption{A 3D scene next to The Jetty in Wivenhoe, Essex, UK with a buoy in the foreground}
+    \label{fig:wivenhoeBuoy}
+  \end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/wivenhoe-google-maps.png}
+    \caption{The same location as in figure \ref{fig:wivenhoeBuoy} in Google Maps. Image courtesy of Petrus Swart}
+    \label{fig:wivenhoeGoogleMaps}
+  \end{minipage}
+\end{figure}
+
+\subsubsection{Structure from Motion Photogrammetry} \label{sec:sfm}
+
+Structure from Motion Photogrammetry (SfM) is a technique in which photographs can be used to created 3D models of objects or environments. These 3D models can then be used in virtual environments or 3D printed for further study. The results of photogrammetry can be comparable to those of Light Detection and Ranging (LiDAR) scanning and is very accessible, being achieve with a mobile phone camera and computer. \cite{iglhaut2019structure}
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/winch photogrammetry.png}
+    \caption{Pictures taken of a winch located in Wivenhoe, Essex, UK}
+    \label{fig:winchPhotogrammetry}
+  \end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/winch photogrammetry project.png}
+    \caption{The results of SfM photogrammetry of a winch in Wivenhoe, Essex, UK}
+    \label{fig:winchPhotogrammetryProject}
+  \end{minipage}
+\end{figure}
+
+\subsubsection{3D Printing} \label{sec:3dprinting}
+
+These results were achieved with a Flashforge 5M Adventurer Pro \cite{FlashForgeAdventurer5MPro} 3D printer using PLA, with a nozzle size of 0.4mm and a layer height of 0.2mm. The print time was approximately 1 hour and 50 minutes, using automatically generated tree supports.
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.7\linewidth}
+    \includegraphics[width=\linewidth]{images/winch 3d model.png}
+    \caption{A 3D printed model of the Wivenhoe winch as seen in figure \ref{fig:winchPhotogrammetryProject}}
+    \label{fig:winch3dmodel}
+  \end{minipage}
+\end{figure}
 
 \subsubsection{Tactile Models to Support Training in Virtual Environments}
+
+These models can be made with a mix of Sfm photogrammetry \ref{sec:sfm} and 3D printing \ref{sec:3dprinting}.
 
 \subsection{Measuring Stress Levels}
 
@@ -245,15 +360,19 @@ Apparatus
 
 \subsubsection{Volunteers}
 
-Intake questionairres 
+Intake questionairres can be used to understand the knowledge and/or experience a volunteer may have before starting an experiment. For example, people with a background in playing video games may be more likely to have experienced or have an understanding of virtual reality before the experiment begins. 
+
+Eye relief plays a huge part in the perceived fidelity of a virtual environment and an inexperienced user of virtual reality might not realised that the view being blurry is not intended. As with other forms of optics which use light refraction to produce an image, factors such as field of view, freedom from glare, alignment, freedom from fogging \cite{angel2005examination} are concerns which inexperienced users might not know how to address. They are also very difficult for the researcher to adjust for the volunteer as they can't see what the volunteer can see.
 
 \subsubsection{Apparatus}
 
 Apparatus
 
-\subsection{Performance Measures}
+\subsection{Performance Measures} \label{performanceMeasures}
 
 https://www.taylorfrancis.com/chapters/edit/10.4324/9781315243092-21/performance-measurement-simulation-based-training-eduardo-salas-michael-rosen-janet-held-johnny-weissmuller
+
+Mutual performance monitoring can be used in conjunction with questionairres to measure the performance of volunteers in a given scenario. \cite{salas2017performance} Peer reviews can offer insite into how a person is performing in a given scenario and potentially cover areas which data-driven metrics might not have caught. Furthermore, peer reviews can be used to identify results which may have been misinterpreted from data. 
 
 \subsubsection{Simulation}
 
@@ -272,6 +391,8 @@ Selection and Training of Participants
 \subsection{Data Collection}
 
 \subsubsection{Simulation}
+
+In a simulation, the data is produced by the software so is normally accessible and therefore easy to collect. For example, the consumer ready simulation software Arma 3 provides a scripting language inside it which can be utilised by server managers to track what happens in an event. One such piece of software, Operation Capture and Playback 2 (OCAP) allows for people to watch back a 2D representation of their game for recreation and performance analysis as discussed in section \ref{sec:performanceMeasures}.
 
 \subsubsection{Real-world}
 

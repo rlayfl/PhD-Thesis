@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  15 MAR 2025 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  16 MAR 2025 21:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -118,11 +118,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
- [4])
+ [4] [5])
 \tf@toc=\write3
 \openout3 = `phd-thesis.toc'.
 
- [5] [6] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.lot)
+ [6] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.lot)
 \tf@lot=\write4
 \openout4 = `phd-thesis.lot'.
 
@@ -130,66 +130,119 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lof=\write5
 \openout5 = `phd-thesis.lof'.
 
-<images/tamar-class-lifeboat-stormworks.jpg, id=28, 2569.6pt x 1445.4pt>
-File: images/tamar-class-lifeboat-stormworks.jpg Graphic file (type jpg)
-<use images/tamar-class-lifeboat-stormworks.jpg>
-Package pdftex.def Info: images/tamar-class-lifeboat-stormworks.jpg  used on input line 87.
-(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<images/falklands-arma.jpg, id=29, 2569.6pt x 1445.4pt>
-File: images/falklands-arma.jpg Graphic file (type jpg)
-<use images/falklands-arma.jpg>
-Package pdftex.def Info: images/falklands-arma.jpg  used on input line 96.
-(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8] [9 <./images/tamar-class-lifeboat-stormworks.jpg>] [10 <./images/falklands-arma.jpg>] [11]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 150.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 84.
  (C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [12]
-<images/michael reeves.png, id=46, 1336.24219pt x 782.925pt>
+) [8] [9]
+<images/tamar-class-lifeboat-stormworks.jpg, id=35, 2569.6pt x 1445.4pt>
+File: images/tamar-class-lifeboat-stormworks.jpg Graphic file (type jpg)
+<use images/tamar-class-lifeboat-stormworks.jpg>
+Package pdftex.def Info: images/tamar-class-lifeboat-stormworks.jpg  used on input line 117.
+(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
+<images/falklands-arma.jpg, id=36, 2569.6pt x 1445.4pt>
+File: images/falklands-arma.jpg Graphic file (type jpg)
+<use images/falklands-arma.jpg>
+Package pdftex.def Info: images/falklands-arma.jpg  used on input line 126.
+(pdftex.def)             Requested size: 350.99762pt x 197.41429pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./images/tamar-class-lifeboat-stormworks.jpg>] [11 <./images/falklands-arma.jpg>] [12] [13]
+<images/ebay-screenshot-rift-s.png, id=50, 934.24031pt x 472.76625pt>
+File: images/ebay-screenshot-rift-s.png Graphic file (type png)
+<use images/ebay-screenshot-rift-s.png>
+Package pdftex.def Info: images/ebay-screenshot-rift-s.png  used on input line 185.
+(pdftex.def)             Requested size: 350.99762pt x 177.61874pt.
+ [14 <./images/ebay-screenshot-rift-s.png>]
+<images/michael reeves.png, id=56, 1336.24219pt x 782.925pt>
 File: images/michael reeves.png Graphic file (type png)
 <use images/michael reeves.png>
-Package pdftex.def Info: images/michael reeves.png  used on input line 169.
+Package pdftex.def Info: images/michael reeves.png  used on input line 211.
 (pdftex.def)             Requested size: 350.99762pt x 205.64633pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13] [14 <./images/michael reeves.png>]
-<images/max_vdh_norway.jpg, id=56, 2216.28pt x 1246.6575pt>
-File: images/max_vdh_norway.jpg Graphic file (type jpg)
-<use images/max_vdh_norway.jpg>
-Package pdftex.def Info: images/max_vdh_norway.jpg  used on input line 208.
-(pdftex.def)             Requested size: 350.99762pt x 197.43387pt.
+[15]
+<images/josh-mocap-concert.png, id=60, 378.66469pt x 219.06844pt>
+File: images/josh-mocap-concert.png Graphic file (type png)
+<use images/josh-mocap-concert.png>
+Package pdftex.def Info: images/josh-mocap-concert.png  used on input line 226.
+(pdftex.def)             Requested size: 272.99881pt x 157.93973pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15] [16 <./images/max_vdh_norway.jpg>]
-Overfull \hbox (42.93819pt too wide) in paragraph at lines 256--257
+[16 <./images/michael reeves.png>]
+<images/wivenhoe-buoy.png, id=65, 501.37312pt x 252.19218pt>
+File: images/wivenhoe-buoy.png Graphic file (type png)
+<use images/wivenhoe-buoy.png>
+Package pdftex.def Info: images/wivenhoe-buoy.png  used on input line 250.
+(pdftex.def)             Requested size: 272.99881pt x 137.32463pt.
+<images/wivenhoe-google-maps.png, id=66, 939.51pt x 588.69937pt>
+File: images/wivenhoe-google-maps.png Graphic file (type png)
+<use images/wivenhoe-google-maps.png>
+Package pdftex.def Info: images/wivenhoe-google-maps.png  used on input line 259.
+(pdftex.def)             Requested size: 272.99881pt x 171.05978pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./images/josh-mocap-concert.png> <./images/wivenhoe-buoy.png>]
+<images/winch photogrammetry.png, id=72, 1027.84pt x 513.92pt>
+File: images/winch photogrammetry.png Graphic file (type png)
+<use images/winch photogrammetry.png>
+Package pdftex.def Info: images/winch photogrammetry.png  used on input line 272.
+(pdftex.def)             Requested size: 272.99881pt x 136.50182pt.
+<images/winch photogrammetry project.png, id=73, 1112.65688pt x 659.46375pt>
+File: images/winch photogrammetry project.png Graphic file (type png)
+<use images/winch photogrammetry project.png>
+Package pdftex.def Info: images/winch photogrammetry project.png  used on input line 281.
+(pdftex.def)             Requested size: 272.99881pt x 161.8065pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./images/wivenhoe-google-maps.png> <./images/winch photogrammetry.png>]
+<images/winch 3d model.png, id=78, 1545.775pt x 1003.75pt>
+File: images/winch 3d model.png Graphic file (type png)
+<use images/winch 3d model.png>
+Package pdftex.def Info: images/winch 3d model.png  used on input line 294.
+(pdftex.def)             Requested size: 272.99881pt x 177.26706pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./images/winch photogrammetry project.png>] [20 <./images/winch 3d model.png>]
+<images/max_vdh_norway.jpg, id=87, 2216.28pt x 1246.6575pt>
+File: images/max_vdh_norway.jpg Graphic file (type jpg)
+<use images/max_vdh_norway.jpg>
+Package pdftex.def Info: images/max_vdh_norway.jpg  used on input line 323.
+(pdftex.def)             Requested size: 350.99762pt x 197.43387pt.
+ [21 <./images/max_vdh_norway.jpg>]
+Overfull \hbox (42.93819pt too wide) in paragraph at lines 373--374
 \OT1/cmss/m/n/12 https://www.taylorfrancis.com/chapters/edit/10.4324/9781315243092-21/performance-
  []
 
 
-Overfull \hbox (33.06847pt too wide) in paragraph at lines 256--257
+Overfull \hbox (33.06847pt too wide) in paragraph at lines 373--374
 \OT1/cmss/m/n/12 measurement-simulation-based-training-eduardo-salas-michael-rosen-janet-held-johnny-
  []
+
+[22]
+
+LaTeX Warning: Reference `sec:performanceMeasures' on page 23 undefined on input line 395.
 
 (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.bbl
 Underfull \hbox (badness 1184) in paragraph at lines 25--27
 []\OT1/cmss/m/n/12 ``Arma 3,'' $https : / / store . steampowered . com / app / 107410 / Arma[]3/$, ac-
  []
 
-[17]
-Overfull \vbox (199.39923pt too high) has occurred while \output is active []
+[23]
+Overfull \vbox (102.39935pt too high) has occurred while \output is active []
 
- [18]
+ [24]
 Underfull \hbox (badness 10000) in paragraph at lines 29--32
 []\OT1/cmss/m/n/12 ``Battlefield 4,'' $https : / / store . steampowered . com / app / 1238860 /
  []
@@ -244,57 +297,61 @@ Overfull \hbox (257.5388pt too wide) in paragraph at lines 89--93
 \OT1/cmss/m/n/12 utah-[]national-[]guard-[]ah-[]64d-[]apache-[]longbow-[]helicopter-[]involved-[]in-[]training-[]accident-[]west-[]jordan-[]army-[]aviation-[]support-[]facility$ 
  []
 
-[19]
+[25]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 108.
-
-Overfull \hbox (89.4938pt too wide) in paragraph at lines 126--131
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 120.
+ [26]
+Overfull \hbox (89.4938pt too wide) in paragraph at lines 163--168
 \OT1/cmss/m/n/12 fox-[]13-[]investigates-[]how-[]a-[]colonel-[]crashed-[]a-[]utah-[]apache-[]helicopter-[]he-[]wasnt-[]quali^^Led-[]to-[]^^My$ 
  []
 
-[20] [21]
-Underfull \hbox (badness 1189) in paragraph at lines 242--246
+[27] [28]
+Underfull \hbox (badness 1189) in paragraph at lines 320--324
 []\OT1/cmss/m/n/12 D. Malyasov, ``Bradley fight-ing ve-hi-cle de-stroys rus-
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 242--246
+Underfull \hbox (badness 1648) in paragraph at lines 320--324
 \OT1/cmss/m/n/12 sia's most ad-vanced tank,'' Jan. 2024, ac-cessed:
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 242--246
+Underfull \hbox (badness 1348) in paragraph at lines 320--324
 \OT1/cmss/m/n/12 2025-02-27. [On-line]. Avail-able: $https : / / defence-[]blog . com /
  []
 
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 310--314
+[29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
 \OT1/cmss/m/n/12 / / assets . publishing . service . gov . uk / media / 5a800dcded915d74e33f82c4 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--321
+Underfull \hbox (badness 10000) in paragraph at lines 413--417
 \OT1/cmss/m/n/12 / / assets . publishing . service . gov . uk / media / 66056f6ef9ab410011eea4ec /
  []
 
-) [23] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.aux)
+) [31] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 2343 strings out of 475248
- 40149 string characters out of 5756868
+ 2421 strings out of 475248
+ 42543 string characters out of 5756868
  1930785 words of memory out of 5000000
- 23858 multiletter control sequences out of 15000+600000
+ 23936 multiletter control sequences out of 15000+600000
  564528 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,1114b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1200.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (23 pages, 2381409 bytes).
+Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (31 pages, 7903117 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 146 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
