@@ -201,6 +201,12 @@ L.~Da~Dalto, F.~Benus, and O.~Balet, ``The use and benefits of virtual reality
   International Conference of the International Institute of Welding, Istanbul,
   Turkey}, 2010, p.~32.
 
+\bibitem{Discord}
+\BIBentryALTinterwordspacing
+{Discord, Inc.}, ``{Discord - Chat, Voice, and Video Communication},'' 2025,
+  accessed: Mar. 15, 2025. [Online]. Available: \url{https://discord.gg/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{el2023walk}
 Y.~El~Basbasse, J.~Packheiser, J.~Peterburs, C.~Maymon,
   O.~G{\"u}nt{\"u}rk{\"u}n, G.~Grimshaw, and S.~Ocklenburg, ``Walk the plank!
@@ -331,6 +337,12 @@ P.~McFarlane and A.~Amin, ``Investigating fatal police shootings using the
 {Michael Reeves}, ``{Trigger Me Elmo | World's First Race Detecting Toy},''
   \url{https://www.youtube.com/watch?v=Q8QlNuTUe4M}, accessed: 2025-02-27.
 
+\bibitem{MicrosoftTeams}
+\BIBentryALTinterwordspacing
+{Microsoft}, ``{Microsoft Teams},'' 2025, accessed: Mar. 15, 2025. [Online].
+  Available: \url{https://teams.microsoft.com/v2/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{militaryconflict2025}
 \BIBentryALTinterwordspacing
 {Military and Conflict}, ``{Video title (replace with actual title)},'' Feb.
@@ -420,6 +432,12 @@ M.~Srivastava, G.~Singh, P.~S. Kharwar, and S.~Jaiswal, ``Occupational stress
 {YouTube}, ``{Roblox presents Twenty One Pilots Concert Experience | Full Show
   },'' 2025, accessed: 15-Mar-2025. [Online]. Available:
   \url{https://www.youtube.com/watch?v=0fAhhoXK12o}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Zoom}
+\BIBentryALTinterwordspacing
+{Zoom Video Communications}, ``{Zoom Video Conferencing Platform},'' 2025,
+  accessed: Mar. 15, 2025. [Online]. Available: \url{https://zoom.us/}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

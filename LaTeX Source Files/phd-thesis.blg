@@ -33,45 +33,45 @@ Warning--empty journal in anderson2024blending
 Warning--empty journal in carey2020high
 
 Done.
-You've used 70 entries,
+You've used 73 entries,
             4566 wiz_defined-function locations,
-            1266 strings with 20764 characters,
-and the built_in function-call counts, 50946 in all, are:
-= -- 4720
-> -- 1180
+            1281 strings with 21032 characters,
+and the built_in function-call counts, 52464 in all, are:
+= -- 4870
+> -- 1201
 < -- 290
-+ -- 620
-- -- 294
-* -- 2661
-:= -- 7959
-add.period$ -- 145
-call.type$ -- 70
-change.case$ -- 388
++ -- 629
+- -- 300
+* -- 2733
+:= -- 8244
+add.period$ -- 151
+call.type$ -- 73
+change.case$ -- 403
 chr.to.int$ -- 645
-cite$ -- 87
-duplicate$ -- 3363
-empty$ -- 3693
-format.name$ -- 320
-if$ -- 11360
+cite$ -- 90
+duplicate$ -- 3468
+empty$ -- 3813
+format.name$ -- 326
+if$ -- 11681
 int.to.chr$ -- 0
-int.to.str$ -- 70
-missing$ -- 620
-newline$ -- 277
-num.names$ -- 110
-pop$ -- 1748
+int.to.str$ -- 73
+missing$ -- 644
+newline$ -- 292
+num.names$ -- 116
+pop$ -- 1823
 preamble$ -- 1
-purify$ -- 283
+purify$ -- 292
 quote$ -- 2
-skip$ -- 3703
+skip$ -- 3814
 stack$ -- 0
-substring$ -- 2041
-swap$ -- 2459
+substring$ -- 2065
+swap$ -- 2516
 text.length$ -- 75
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 735
+type$ -- 765
 warning$ -- 17
-while$ -- 225
-width$ -- 72
-write$ -- 707
+while$ -- 231
+width$ -- 75
+write$ -- 740
 (There were 17 warnings)
