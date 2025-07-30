@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  30 JUL 2025 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  30 JUL 2025 18:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -239,19 +239,19 @@ Overfull \hbox (33.06847pt too wide) in paragraph at lines 387--388
 
 [22 <./images/winch 3d model.png>] [23 <./images/max_vdh_norway.jpg>]
 
-LaTeX Warning: Reference `sec:performanceMeasures' on page 24 undefined on input line 411.
+LaTeX Warning: Reference `sec:performanceMeasures' on page 24 undefined on input line 409.
 
-[24] [25] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.bbl
+[24] [25] [26] (d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.bbl
 Underfull \hbox (badness 1184) in paragraph at lines 25--27
 []\OT1/cmss/m/n/12 ``Arma 3,'' $https : / / store . steampowered . com / app / 107410 / Arma[]3/$, ac-
  []
 
-[26]
+
 Underfull \hbox (badness 10000) in paragraph at lines 29--32
 []\OT1/cmss/m/n/12 ``Battlefield 4,'' $https : / / store . steampowered . com / app / 1238860 /
  []
 
-
+[27]
 Underfull \hbox (badness 4205) in paragraph at lines 34--37
 []\OT1/cmss/m/n/12 ``DCS World Steam Edi-tion,'' $https : / / store . steampowered . com / app /
  []
@@ -266,7 +266,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--46
 []\OT1/cmss/m/n/12 ``Richie's Plank Ex-pe-ri-ence,'' $https : / / store . steampowered . com / app /
  []
 
-[27]
+
 Underfull \hbox (badness 10000) in paragraph at lines 48--51
 []\OT1/cmss/m/n/12 ``Steadfast De-fender 24,'' $https : / / www . defense . gov / Spotlights /
  []
@@ -304,12 +304,12 @@ Overfull \hbox (257.5388pt too wide) in paragraph at lines 89--93
 [28]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 120.
-
+ [29]
 Overfull \hbox (89.4938pt too wide) in paragraph at lines 163--168
 \OT1/cmss/m/n/12 fox-[]13-[]investigates-[]how-[]a-[]colonel-[]crashed-[]a-[]utah-[]apache-[]helicopter-[]he-[]wasnt-[]quali^^Led-[]to-[]^^My$ 
  []
 
-[29] [30] [31]
+[30] [31]
 Underfull \hbox (badness 1189) in paragraph at lines 326--330
 []\OT1/cmss/m/n/12 D. Malyasov, ``Bradley fight-ing ve-hi-cle de-stroys rus-
  []
@@ -353,7 +353,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,1114b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1200.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (34 pages, 7908051 bytes).
+Output written on "d:\PhD Computer Science\PhD-Thesis\LaTeX Source Files\phd-thesis.pdf" (34 pages, 7908612 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
