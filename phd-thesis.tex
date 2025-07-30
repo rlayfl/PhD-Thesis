@@ -11,7 +11,7 @@
 
 \pretitle{
   \begin{center}
-  \includegraphics[width=0.2\textwidth]{images/logo.jpeg}\vspace{2em} \\ % Add your logo here
+  \includegraphics[width=0.2\textwidth]{images/logo.jpeg}\vspace{2em} \\
   \LARGE
 }
 \posttitle{
@@ -70,6 +70,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \section{Introduction}
 
 \subsection{Research Questions}
+
+What measurable physiological indicators correlate with preceived stress during challenging simulation tasks?
 
 What is the impact of exposure, at different levels, to high-pressure scenarios in a virtual environment on a person's ability to make decisions in real life?
 
@@ -307,6 +309,18 @@ Data regarding the stress level of a participant can be attained by measuring a 
 
 Eye-tracking solutions may also be used to measure stress levels in the same way as they have been used to measure competency in martitime navigation training. \cite{atik2019use}
 
+% Perceived stress scale
+
+% Galvanic skin response
+
+Tried with myself and it worked after settling down for a while
+
+Tried with Jasmine and could not get a reading, figured fingers might be too small
+
+% Blink detection
+
+
+
 \subsection{Application of Virtual Environments in Training for High-pressure Scenarios} \label{sec:applicationsOfVirtualEnvironments}
 
 Training for high-pressure scenarios can be expensive and dangerous. From 1st January 2000 to 29th February 2024, 162 UK armed forces personnel died whilst on training or exercise. \cite{ukmod2024} In a report published by the UK Ministry of Defence, the cost of 105mm artillery shells between the commencement of Operation Herrick 17 and 17th December 2014 ranged from ~£50.00 to ~£2,812.00 per shell, depending on the type of shell and other factors. \cite{ukmod2015} Assuming a cost of £50.00 per shell (at the lower end of the scale), the cost of a battery of 6 guns firing 6 shells each, per fire mission, would be £1,800.00. This is a significant cost for a single training exercise which could potentially last weeks or more. Now scale this up to the cost of a year's worth of training for the entire UK armed forces and the cost becomes astronomical. For example, exercise Steadfast Defender involved ~90,000 troops and personnel, 50+ naval assets, 80+ air platforms and over 1,1000 combat vehicles. \cite{steadfastdefender24}
@@ -390,6 +404,8 @@ Selection and Training of Participants
 
 \subsection{Data Collection}
 
+\section{Partial Fractional Design}
+
 \subsubsection{Simulation}
 
 In a simulation, the data is produced by the software so is normally accessible and therefore easy to collect. For example, the consumer ready simulation software Arma 3 provides a scripting language inside it which can be utilised by server managers to track what happens in an event. One such piece of software, Operation Capture and Playback 2 (OCAP) allows for people to watch back a 2D representation of their game for recreation and performance analysis as discussed in section \ref{sec:performanceMeasures}.
@@ -432,7 +448,39 @@ This research could help give small businesses and organisations more confidence
 
 \subsection{Training for Stressful Scenarios}
 
+\section{Machine Learning to Assess Performance in Maritime Navigation}
+
+% Make a model which spots objects in the scene and then uses that to determine how well a person is performing in a maritime navigation scenario. This could be useful for randomly generated scenarios where the user has to find a specific object in the scene, such as a buoy or a ship and not having supervisors there to monitor the user. This could also be used in screen recording. Ultimately, Unreal Engine 5 could be used to identify the locations internally but what if the user is using a different piece of software because a PC can't run it? Inference is generally less resource intensive than training so a model could be trained in Unreal Engine 5 on a good PC and then tested on a laptop with a less powerful GPU.
+
+% The justification here is also that, yes, Unreal Engine 5 is all knowing about its environments. However, understand the world from the user's view point is crucial for effective training and assessment. A comparison of the reality of the environment to the user's performance could be unfair as, for example, simulated foggy weather could hinder performance whereas data from Unreal Engine 5 could indicated that the user should have been able to see the object they were looking for.
+
 \section{Methodology}
+
+\subsection{Simulation Variables and Physiological Stress}
+
+When playing online competitive games that involve controlling a character in a simulated dangerous environment, players often report feelings of stress. Whether it's the end of a round in Counter-Strike, hiding from enemy players in Arma, or speaking to a simulated ghost in Phasmophobia, these scenarios tend to evoke a stress response, even though there is no real danger to the player themselves.
+
+Understanding exactly what it is about these scenarios that triggers a stress response could be useful in preparing individuals for real-life high-stress situations, such as those faced by police officers, military personnel, and maritime professionals.
+
+\subsection{Experiment Design}
+
+\subsubsection{Frational Factorial Design}
+
+\subsubsection{Simulation Variables}
+
+\subsubsection{Physiological Stress Indicators}
+
+\subsection{Data Collection}
+
+\subsubsection{Physiological Data}
+
+\subsubsection{Simulation Data}
+
+\subsection{Data Analysis}
+
+\subsubsection{Statistical Analysis}
+
+\subsubsection{Machine Learning}
 
 \section{Results}
 

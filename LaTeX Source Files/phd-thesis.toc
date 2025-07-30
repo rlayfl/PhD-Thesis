@@ -3,18 +3,18 @@
 \contentsline {subsection}{\numberline {1.2}The Benefits of Consumer-ready Simulation in Training}{9}{}%
 \contentsline {subsection}{\numberline {1.3}Consumer-ready Simulation Software}{9}{}%
 \contentsline {subsubsection}{\numberline {1.3.1}Sectors}{9}{}%
-\contentsline {subsubsection}{\numberline {1.3.2}Building Virtual Environments}{9}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}Building Virtual Environments}{10}{}%
 \contentsline {subsubsection}{\numberline {1.3.3}Using Ready Made Virtual Environments}{10}{}%
 \contentsline {subsection}{\numberline {1.4}The Importance of Training for High-pressure Scenarios}{10}{}%
 \contentsline {subsection}{\numberline {1.5}Maritime Navigation Under Pressure}{10}{}%
 \contentsline {section}{\numberline {2}Literature Review}{10}{}%
 \contentsline {subsection}{\numberline {2.1}Maritime Navigation Training}{10}{}%
-\contentsline {subsection}{\numberline {2.2}High-pressure Scenarios and Decision-making}{11}{}%
-\contentsline {subsection}{\numberline {2.3}Necessity for Regular Exposure to High-pressure Scenarios}{12}{}%
+\contentsline {subsection}{\numberline {2.2}High-pressure Scenarios and Decision-making}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Necessity for Regular Exposure to High-pressure Scenarios}{11}{}%
 \contentsline {subsection}{\numberline {2.4}Training for High-pressure Scenarios}{12}{}%
 \contentsline {subsection}{\numberline {2.5}Application of Virtual Environments for Training}{13}{}%
 \contentsline {subsubsection}{\numberline {2.5.1}Success in other Industries}{13}{}%
-\contentsline {subsection}{\numberline {2.6}Virtual Reality (VR)}{13}{}%
+\contentsline {subsection}{\numberline {2.6}Virtual Reality (VR)}{14}{}%
 \contentsline {subsubsection}{\numberline {2.6.1}Advandages of VR for Training}{14}{}%
 \contentsline {subsubsection}{\numberline {2.6.2}Disadvantages of VR for Training}{15}{}%
 \contentsline {subsubsection}{\numberline {2.6.3}Digital Twins}{15}{}%
@@ -23,48 +23,61 @@
 \contentsline {subsubsection}{\numberline {2.8.1}Key Design Princples}{17}{}%
 \contentsline {subsubsection}{\numberline {2.8.2}Defining Realism}{17}{}%
 \contentsline {subsubsection}{\numberline {2.8.3}Generation of HDRI Backdrops}{17}{}%
-\contentsline {subsubsection}{\numberline {2.8.4}Structure from Motion Photogrammetry}{18}{}%
-\contentsline {subsubsection}{\numberline {2.8.5}3D Printing}{19}{}%
-\contentsline {subsubsection}{\numberline {2.8.6}Tactile Models to Support Training in Virtual Environments}{19}{}%
-\contentsline {subsection}{\numberline {2.9}Measuring Stress Levels}{19}{}%
-\contentsline {subsection}{\numberline {2.10}Application of Virtual Environments in Training for High-pressure Scenarios}{20}{}%
-\contentsline {subsection}{\numberline {2.11}Challenges with Maritime Experimentation}{21}{}%
-\contentsline {subsubsection}{\numberline {2.11.1}Gathering Data}{21}{}%
-\contentsline {subsubsection}{\numberline {2.11.2}Minimising Risk}{22}{}%
-\contentsline {subsubsection}{\numberline {2.11.3}Logistics}{22}{}%
-\contentsline {subsubsection}{\numberline {2.11.4}Ethical Considerations}{22}{}%
-\contentsline {subsection}{\numberline {2.12}Preparation for Experiments in Potentially Dangerous Situations}{22}{}%
-\contentsline {subsubsection}{\numberline {2.12.1}Gathering Data}{22}{}%
-\contentsline {subsubsection}{\numberline {2.12.2}Minimising Risk}{22}{}%
+\contentsline {subsubsection}{\numberline {2.8.4}Structure from Motion Photogrammetry}{17}{}%
+\contentsline {subsubsection}{\numberline {2.8.5}3D Printing}{18}{}%
+\contentsline {subsubsection}{\numberline {2.8.6}Tactile Models to Support Training in Virtual Environments}{18}{}%
+\contentsline {subsection}{\numberline {2.9}Measuring Stress Levels}{18}{}%
+\contentsline {subsection}{\numberline {2.10}Application of Virtual Environments in Training for High-pressure Scenarios}{19}{}%
+\contentsline {subsection}{\numberline {2.11}Challenges with Maritime Experimentation}{20}{}%
+\contentsline {subsubsection}{\numberline {2.11.1}Gathering Data}{20}{}%
+\contentsline {subsubsection}{\numberline {2.11.2}Minimising Risk}{21}{}%
+\contentsline {subsubsection}{\numberline {2.11.3}Logistics}{21}{}%
+\contentsline {subsubsection}{\numberline {2.11.4}Ethical Considerations}{21}{}%
+\contentsline {subsection}{\numberline {2.12}Preparation for Experiments in Potentially Dangerous Situations}{21}{}%
+\contentsline {subsubsection}{\numberline {2.12.1}Gathering Data}{21}{}%
+\contentsline {subsubsection}{\numberline {2.12.2}Minimising Risk}{21}{}%
 \contentsline {subsection}{\numberline {2.13}Preparation for Maritime Experimentation}{22}{}%
 \contentsline {subsubsection}{\numberline {2.13.1}Volunteers}{22}{}%
 \contentsline {subsubsection}{\numberline {2.13.2}Apparatus}{22}{}%
 \contentsline {subsection}{\numberline {2.14}Performance Measures}{23}{}%
-\contentsline {subsubsection}{\numberline {2.14.1}Simulation}{23}{}%
-\contentsline {subsubsection}{\numberline {2.14.2}Real-world}{23}{}%
-\contentsline {subsection}{\numberline {2.15}Preparation for Simulator Experimentation}{23}{}%
-\contentsline {subsubsection}{\numberline {2.15.1}Volunteers}{23}{}%
-\contentsline {subsubsection}{\numberline {2.15.2}Apparatus}{23}{}%
-\contentsline {subsection}{\numberline {2.16}Consumer-ready Simulation Software}{23}{}%
-\contentsline {subsection}{\numberline {2.17}Data Collection}{23}{}%
-\contentsline {subsubsection}{\numberline {2.17.1}Simulation}{23}{}%
-\contentsline {subsubsection}{\numberline {2.17.2}Real-world}{24}{}%
-\contentsline {section}{\numberline {3}Building Virtual Environments for Training in Unreal Engine 5}{24}{}%
-\contentsline {subsection}{\numberline {3.1}Introduction}{24}{}%
-\contentsline {subsection}{\numberline {3.2}Digital Twins}{24}{}%
-\contentsline {subsection}{\numberline {3.3}Unreal Engine 5}{24}{}%
-\contentsline {section}{\numberline {4}Human Perception and Differentiation of Real and Virtual Environments}{24}{}%
-\contentsline {subsection}{\numberline {4.1}Introduction}{24}{}%
-\contentsline {subsection}{\numberline {4.2}Methodology}{24}{}%
-\contentsline {subsection}{\numberline {4.3}Experiment 1 - Mutilus}{24}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}What is Mutilus?}{24}{}%
-\contentsline {subsubsection}{\numberline {4.3.2}Prototype Experiments}{24}{}%
-\contentsline {subsubsection}{\numberline {4.3.3}Results}{24}{}%
-\contentsline {section}{\numberline {5}Applications of this Research}{24}{}%
-\contentsline {subsection}{\numberline {5.1}Training for Stressful Scenarios}{25}{}%
-\contentsline {section}{\numberline {6}Methodology}{25}{}%
-\contentsline {section}{\numberline {7}Results}{25}{}%
-\contentsline {section}{\numberline {8}Discussion}{25}{}%
-\contentsline {section}{\numberline {9}Conclusion}{25}{}%
-\contentsline {section}{\numberline {10}References}{25}{}%
-\contentsline {section}{\numberline {11}Appendices}{32}{}%
+\contentsline {subsubsection}{\numberline {2.14.1}Simulation}{24}{}%
+\contentsline {subsubsection}{\numberline {2.14.2}Real-world}{24}{}%
+\contentsline {subsection}{\numberline {2.15}Preparation for Simulator Experimentation}{24}{}%
+\contentsline {subsubsection}{\numberline {2.15.1}Volunteers}{24}{}%
+\contentsline {subsubsection}{\numberline {2.15.2}Apparatus}{24}{}%
+\contentsline {subsection}{\numberline {2.16}Consumer-ready Simulation Software}{24}{}%
+\contentsline {subsection}{\numberline {2.17}Data Collection}{24}{}%
+\contentsline {section}{\numberline {3}Partial Fractional Design}{24}{}%
+\contentsline {subsubsection}{\numberline {3.0.1}Simulation}{24}{}%
+\contentsline {subsubsection}{\numberline {3.0.2}Real-world}{25}{}%
+\contentsline {section}{\numberline {4}Building Virtual Environments for Training in Unreal Engine 5}{25}{}%
+\contentsline {subsection}{\numberline {4.1}Introduction}{25}{}%
+\contentsline {subsection}{\numberline {4.2}Digital Twins}{25}{}%
+\contentsline {subsection}{\numberline {4.3}Unreal Engine 5}{25}{}%
+\contentsline {section}{\numberline {5}Human Perception and Differentiation of Real and Virtual Environments}{25}{}%
+\contentsline {subsection}{\numberline {5.1}Introduction}{25}{}%
+\contentsline {subsection}{\numberline {5.2}Methodology}{25}{}%
+\contentsline {subsection}{\numberline {5.3}Experiment 1 - Mutilus}{25}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}What is Mutilus?}{25}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Prototype Experiments}{25}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}Results}{25}{}%
+\contentsline {section}{\numberline {6}Applications of this Research}{25}{}%
+\contentsline {subsection}{\numberline {6.1}Training for Stressful Scenarios}{26}{}%
+\contentsline {section}{\numberline {7}Machine Learning to Assess Performance in Maritime Navigation}{26}{}%
+\contentsline {section}{\numberline {8}Methodology}{26}{}%
+\contentsline {subsection}{\numberline {8.1}Simulation Variables and Physiological Stress}{26}{}%
+\contentsline {subsection}{\numberline {8.2}Experiment Design}{27}{}%
+\contentsline {subsubsection}{\numberline {8.2.1}Frational Factorial Design}{27}{}%
+\contentsline {subsubsection}{\numberline {8.2.2}Simulation Variables}{27}{}%
+\contentsline {subsubsection}{\numberline {8.2.3}Physiological Stress Indicators}{27}{}%
+\contentsline {subsection}{\numberline {8.3}Data Collection}{27}{}%
+\contentsline {subsubsection}{\numberline {8.3.1}Physiological Data}{27}{}%
+\contentsline {subsubsection}{\numberline {8.3.2}Simulation Data}{27}{}%
+\contentsline {subsection}{\numberline {8.4}Data Analysis}{27}{}%
+\contentsline {subsubsection}{\numberline {8.4.1}Statistical Analysis}{27}{}%
+\contentsline {subsubsection}{\numberline {8.4.2}Machine Learning}{27}{}%
+\contentsline {section}{\numberline {9}Results}{27}{}%
+\contentsline {section}{\numberline {10}Discussion}{27}{}%
+\contentsline {section}{\numberline {11}Conclusion}{27}{}%
+\contentsline {section}{\numberline {12}References}{27}{}%
+\contentsline {section}{\numberline {13}Appendices}{34}{}%
