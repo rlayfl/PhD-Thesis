@@ -5,7 +5,7 @@
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{parskip} % For spacing between paragraphs
 
-\title{Analysing the Effectiveness of Consumer-ready Simulation Software in Training for Maritime Navigation Under Pressure}
+\title{AI-assisted Training for High-pressure Scenarios in Virtual Environments}
 \author{Richard Lay-Flurrie}
 \date{\today}
 
@@ -233,7 +233,6 @@ During the filming of a music video for a concert to be in held in the video gam
 
 Studying a person's eye movements can also be an effective way of measuring their competency or mental state in a given task. For example, people tend to fixate their gaze on a certain point when under extreme stress (sometimes known as tunnel vision) \cite{herten2017role}. Eye tracking is possibility in virtual reality \cite{clay2019eye} so could be used as a partial measure to measure a person's stress levels. 
 
-
 \subsection{Creating Realistic Virtual Environments}
 
 \subsubsection{Key Design Princples}
@@ -305,6 +304,8 @@ These models can be made with a mix of Sfm photogrammetry \ref{sec:sfm} and 3D p
 
 \subsection{Measuring Stress Levels}
 
+It is possible to identify raised levels of stress in people by measuring physiological responses to stimuli. However, it is possible for individual indicators of stress to be caused by other factors.
+
 Data regarding the stress level of a participant can be attained by measuring a person's heart rate, heart rate recovery time, salivary cortisol and amylase. Further surveys and interviews can be conducted with volunteers to gather information. \cite{liu2018impact}
 
 Eye-tracking solutions may also be used to measure stress levels in the same way as they have been used to measure competency in martitime navigation training. \cite{atik2019use}
@@ -313,11 +314,33 @@ Eye-tracking solutions may also be used to measure stress levels in the same way
 
 % Galvanic skin response
 
-Tried with myself and it worked after settling down for a while
+Tried with myself and it worked after settling down for a while 
 
 Tried with Jasmine and could not get a reading, figured fingers might be too small
 
 % Blink detection
+
+Some literature suggests that blink rate is a good method for estimating levels of stress. However, much of the literature appears to contradict other literature in terms of the observed correlations. Some literature indicates a positive correlation between blink rate and stress levels whereas other papers indicate a negative correlation of the same variables. 
+
+Through studying the literature and reviewing footage online of people in stressful situations, there appears to be a more nuanced correlation with blink rate increasing during times of emotional stress and blink rate reducing while under stress due to cognitive load. High levels of focus appear to reduce blink rates and it is possible that correlations between blink rate dropping and stress are being drawn due to this.
+
+To measure blink rate, two methods can be employed. One of manually counting the blinks by observing a person's eyes or automating the process somehow. 
+
+Manual observation and counting would limit the observer to synchronous collection of data, without the possibility of observing more than one person at once. This method also comes with the negatives of it being a monotonous task prone to human error due to boredom. 
+
+Automatic collection of data allows for data to be collected from multiple sources at once, such as multiple videos playing on a screen or multiple webcams connected to a PC.
+
+Automatic Blink Rate Method
+
+A Python script was generated which can be used with a webcam or can be configured to analyse images from the display of the machine the software is running on. It uses mediapipe for facial landmark detection and Multiple ScreenShots (MSS) for screen capture. The blinks are detected and logged against UNIX time so that they can be matched against any activity the person was carrying out (provided the activity also has UNIX timestamps).
+
+Preliminary Experiment
+
+To confirm the viability of this method, a series of preliminary experiments were carried out. These involved running the blink detection software while I carried out focus-intensive tasks on the computer. I recorded these activities using Open Broadcast Software (OBS) and added a UNIX time overlay to the recording. I was then able to match up the blinks with what was happening in the recording at any given time. 
+
+I also recorded my own blink rate while carrying out general tasks to compare the two rates. 
+
+The preliminary experiments worked well, with the blink rates corroborating that which was found in the literature. However, the blink rates found were not completely reliable as I was conscious of the experiment the whole time and found it hard to blink naturally.
 
 
 
@@ -507,6 +530,8 @@ Understanding exactly what it is about these scenarios that triggers a stress re
 \section{Results}
 
 \section{Discussion}
+
+
 
 \section{Conclusion}
 
